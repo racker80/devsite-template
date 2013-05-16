@@ -41,15 +41,18 @@
 
 
                 <div class="span4 well">
-                        <h2>Announcing Developer Support!</h2>
-                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quo, nulla, veniam, a possimus veritatis sunt voluptas quam ducimus nemo praesentium ad dolor asperiores facilis nihil aliquam minus aspernatur ut ipsa!</p>
-                        <button class="btn btn-primary btn-block">Let Rackspace Support Your Project</button>
+                        <h2>Rackspace Developer Support: Fanatical Support For Your Code</h2>
+                        <p>
+                            When you’re programming your application to interact with the Rackspace Cloud powered by OpenStack, we want to make sure it is as easy as possible.
+                            With the launch of this service, you will be able to contact Rackspace and reach API and SDK experts.
+                        </p>
+                        <a href="http://www.rackspace.com/blog/rackspace-developer-support-fanatical-support-for-your-code/" target="_blank" class="btn btn-primary btn-block">Let Rackspace Support Your Project</a>
                 </div>
 
                 <div class="span4 well">
-                        <h2>Rackspace and <span class="red">Open Stack</span></h2>
+                        <h2>Rackspace and Open<span class="red">Stack</span></h2>
                         <p>Lorem ipsr adm   enetur cupiditate dolorem porro quidem temporibus repudiandae rerum.</p>
-                        <button class="btn btn-primary btn-block">We're Committed!</button>
+                        <button class="btn btn-primary btn-block">Build Infrastructure with OpenStack</button>
                 </div>
 
                 <div class="span4 well">
