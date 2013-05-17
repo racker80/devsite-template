@@ -9487,6 +9487,121 @@ HERO
   text-decoration: none;
   font-size: 14px;
 }
+#home-repos .repo-table td h2 {
+  margin: 0;
+  padding: 0;
+}
+#home-repos .repo-table td p {
+  color: #4c4c4c;
+  font-size: 14px;
+  line-height: 140%;
+  letter-spacing: .01em;
+  margin: 0 0 1em 0;
+  margin: 0;
+  line-height: 1em;
+}
+#home-repos .repo-table td small {
+  color: #4c4c4c;
+  font-size: 12px;
+  line-height: 130%;
+  letter-spacing: .02em;
+  margin: 0 0 1em 0;
+  margin: 0;
+}
+#home-repos .repolist {
+  position: relative;
+  *zoom: 1;
+  margin-bottom: 60px;
+}
+#home-repos .repolist:before,
+#home-repos .repolist:after {
+  display: table;
+  content: "";
+  line-height: 0;
+}
+#home-repos .repolist:after {
+  clear: both;
+}
+#home-repos .repolist:before,
+#home-repos .repolist:after {
+  display: table;
+  content: "";
+  line-height: 0;
+}
+#home-repos .repolist:after {
+  clear: both;
+}
+#home-repos .repolist li {
+  position: relative;
+  z-index: 100;
+  overflow: hidden;
+  padding-bottom: 30px;
+  margin: 0 0 0px 0;
+  border-bottom: 1px solid #eaeaea;
+}
+#home-repos .repolist li > div {
+  position: relative;
+  z-index: 101;
+}
+#home-repos .repolist li > div.repo-image {
+  position: relative;
+  top: 10px;
+  left: 0px;
+}
+#home-repos .repolist li > div.repo-description {
+  position: relative;
+  top: 10px;
+  left: 0px;
+}
+#home-repos .repolist li > div.repo-description h3 {
+  padding: 0;
+  font-size: 20px;
+  margin: 0;
+  line-height: 1em;
+}
+#home-repos .repolist li > div.repo-description h3 a {
+  text-decoration: none;
+  color: #a80000;
+}
+#home-repos .repolist li > div.repo-description p.meta {
+  line-height: 25px;
+  color: #4c4c4c;
+  font-size: 12px;
+  line-height: 130%;
+  letter-spacing: .02em;
+  margin: 0 0 1em 0;
+}
+#home-repos .repolist li > div.repo-description p.lead {
+  margin-bottom: 0;
+  font-size: 14px;
+  line-height: 1em;
+}
+#home-repos .repolist li > div.repo-description strong {
+  font-family: 'RobotoCondensedBold', 'HelveticaNeue', 'Helvetica Neue', Helvetica, Arial, san-serif;
+}
+#home-repos .repolist li > div.repo-description small {
+  margin: 5px 0;
+}
+#home-repos .repolist li > div.repo-description small img {
+  display: inline-block;
+  position: relative;
+  top: 5px;
+}
+#home-repos .repolist li > div.repo-description em {
+  font-weight: 800;
+}
+#home-repos .repolist li > div.repo-info {
+  position: absolute;
+  top: 55px;
+  right: 0;
+}
+#home-repos .repolist li > div.graphDiv {
+  position: absolute;
+  bottom: 0;
+  right: 0;
+  z-index: 1;
+  width: 50%;
+}
 /************************************
 BLOG
 ************************************/
@@ -9782,111 +9897,6 @@ BLOG
   line-height: 140%;
   letter-spacing: .01em;
   margin: 0 0 1em 0;
-}
-.repo-table td h2 {
-  margin: 0;
-  padding: 0;
-}
-.repo-table td p {
-  color: #4c4c4c;
-  font-size: 14px;
-  line-height: 140%;
-  letter-spacing: .01em;
-  margin: 0 0 1em 0;
-  margin: 0;
-  line-height: 1em;
-}
-.repo-table td small {
-  color: #4c4c4c;
-  font-size: 12px;
-  line-height: 130%;
-  letter-spacing: .02em;
-  margin: 0 0 1em 0;
-  margin: 0;
-}
-.repolist {
-  position: relative;
-  *zoom: 1;
-}
-.repolist:before,
-.repolist:after {
-  display: table;
-  content: "";
-  line-height: 0;
-}
-.repolist:after {
-  clear: both;
-}
-.repolist:before,
-.repolist:after {
-  display: table;
-  content: "";
-  line-height: 0;
-}
-.repolist:after {
-  clear: both;
-}
-.repolist li {
-  position: relative;
-  z-index: 100;
-  overflow: hidden;
-  padding-bottom: 30px;
-  margin: 30px 0;
-  border-bottom: 1px solid #eaeaea;
-}
-.repolist li > div {
-  position: relative;
-  z-index: 101;
-}
-.repolist li > div.repo-description {
-  position: relative;
-  top: 10px;
-  left: 0px;
-}
-.repolist li > div.repo-description h3 {
-  padding: 0;
-  font-size: 26px;
-}
-.repolist li > div.repo-description h3 a {
-  text-decoration: none;
-  color: #a80000;
-}
-.repolist li > div.repo-description p.meta {
-  line-height: 25px;
-}
-.repolist li > div.repo-description p.lead {
-  margin-bottom: 0;
-}
-.repolist li > div.repo-description strong {
-  font-family: 'RobotoCondensedBold', 'HelveticaNeue', 'Helvetica Neue', Helvetica, Arial, san-serif;
-}
-.repolist li > div.repo-description small {
-  color: #4c4c4c;
-  font-size: 12px;
-  line-height: 130%;
-  letter-spacing: .02em;
-  margin: 0 0 1em 0;
-  margin: 5px 0;
-}
-.repolist li > div.repo-description small img {
-  display: inline-block;
-  position: relative;
-  top: 5px;
-}
-.repolist li > div.repo-description em {
-  font-weight: 800;
-}
-.repolist li > div.repo-info {
-  position: absolute;
-  top: 55px;
-  right: 0;
-}
-.repolist li > div.graphDiv {
-  position: absolute;
-  bottom: 0;
-  right: 0;
-  z-index: 1;
-  width: 50%;
 }
 /********************************************************
 FOOTER

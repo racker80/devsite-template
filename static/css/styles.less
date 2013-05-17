@@ -454,6 +454,107 @@ HERO
 
     }
 
+    .repo-table {
+    td {
+        h2 {
+            margin:0;
+            padding:0;
+        }
+        p {
+            .text14;
+            margin:0;
+            line-height:1em;
+        }
+        small {
+            .text12;
+            margin:0;
+        }
+    }
+}
+
+
+.repolist {
+    position:relative;
+    .clearfix;
+    margin-bottom:60px;
+    li {
+        position:relative;
+        z-index:100;
+        overflow:hidden;
+        padding-bottom:30px;
+        margin:0 0 0px 0;
+        border-bottom:1px solid #eaeaea;
+        >div {
+            position:relative;
+            z-index:101;
+            &.repo-image {
+                position:relative;
+                top:10px;
+                left:0px;
+            }
+            &.repo-description {
+                position:relative;
+                top:10px;
+                left:0px;
+                h3 {
+                    padding:0;
+                    font-size:20px;
+                    margin:0;
+                    line-height:1em;
+                    a {
+                        text-decoration:none;
+                        color:@rackRed;
+                    }
+                }
+                p.meta {
+                    line-height:25px;
+                    .text12;
+                }
+                p.lead {
+                    margin-bottom:0;
+                    font-size:14px;
+                    line-height:1em;
+                }
+                strong {
+                    .narrow;
+                }
+                small {
+                    margin:5px 0;
+                    img {
+                        display:inline-block;
+                        position:relative;
+                        top:5px;
+
+                    }
+                }
+                em {
+                    font-weight:800;
+                }
+            }
+
+            &.repo-info {
+                position:absolute;
+                top:55px;
+                right:0;
+            }
+            &.graphDiv {
+                position:absolute;
+                bottom:0;
+                right:0;
+                z-index:1;
+                width:50%;
+            }
+
+        }
+
+    }
+
+
+
+    
+
+}
+
 }
 
 
@@ -663,98 +764,7 @@ BLOG
 }
 
 
-.repo-table {
-    td {
-        h2 {
-            margin:0;
-            padding:0;
-        }
-        p {
-            .text14;
-            margin:0;
-            line-height:1em;
-        }
-        small {
-            .text12;
-            margin:0;
-        }
-    }
-}
 
-
-.repolist {
-    position:relative;
-    .clearfix;
-    
-    li {
-        position:relative;
-        z-index:100;
-        overflow:hidden;
-        padding-bottom:30px;
-        margin:30px 0;
-        border-bottom:1px solid #eaeaea;
-        >div {
-            position:relative;
-            z-index:101;
-
-            &.repo-description {
-                position:relative;
-                top:10px;
-                left:0px;
-                h3 {
-                    padding:0;
-                    font-size:26px;
-                    a {
-                        text-decoration:none;
-                        color:@rackRed;
-                    }
-                }
-                p.meta {
-                    line-height:25px;
-                }
-                p.lead {
-                    margin-bottom:0;
-                }
-                strong {
-                    .narrow;
-                }
-                small {
-                    .text12;
-                    margin:5px 0;
-                    img {
-                        display:inline-block;
-                        position:relative;
-                        top:5px;
-
-                    }
-                }
-                em {
-                    font-weight:800;
-                }
-            }
-
-            &.repo-info {
-                position:absolute;
-                top:55px;
-                right:0;
-            }
-            &.graphDiv {
-                position:absolute;
-                bottom:0;
-                right:0;
-                z-index:1;
-                width:50%;
-            }
-
-        }
-
-    }
-
-
-
-    
-
-}
 
 
 
