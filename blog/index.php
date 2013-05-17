@@ -9,7 +9,7 @@
                         <article class="blog-article">
                             <header>
 
-                                <h1 class="entry-title"><a href="/blog_single.php">Rackspace Announces SDK Support</a></h1>
+                                <h1 class="entry-title"><a href="/blog/single.php">Rackspace Announces SDK Support</a></h1>
                                 <p class="author">
                                     <span class="byline author vcard">by <span class="fn">Hart Hoover</span></span>
                                 </p>
@@ -29,7 +29,7 @@
 
                         <article class="blog-article">
                             <header>
-                                <h1 class="entry-title"><a href="/devops-improved-productivity.html">DevOps: Improved Productivity, Higher Value</a></h1>
+                                <h1 class="entry-title"><a href="/blog/single.php">DevOps: Improved Productivity, Higher Value</a></h1>
                                 <p class="author">
                                     <span class="byline author vcard">by <span class="fn">James Turnbull</span></span>
                                     <br>
@@ -49,7 +49,7 @@
                             </div>
 
                             <footer class="blog-footer">
-                                <a rel="full-article" href="/devops-improved-productivity.html">Continue Reading →</a>
+                                <a rel="full-article" href="/blog/single.php">Continue Reading →</a>
                             </footer>
 
                         </article>
