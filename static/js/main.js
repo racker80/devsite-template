@@ -4,11 +4,12 @@ $(document).ready(function() {
                     $(".repolist li").each(function() {
                       //  var reponame = $(this).children('a').children('.inner').children('.repo-title')[0].innerHTML;
                         var reponame = $(this).data('repo');
+                        var user = $(this).data('user');
                         var w = $(this).width();
                         var h = $(this).height();
 
                         var graph = new Gitgraph({ 
-                            user        : 'rackerlabs',                // any github username
+                            user        : user,                // any github username
                             repo        : reponame,                // name of repo
                             domNode     : document.getElementById("graph-"+reponame),         // (optional) DOM node to attach to 
                             width       : w/2,                   // (optional) graph width

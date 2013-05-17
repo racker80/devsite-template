@@ -54,7 +54,7 @@
                     <img data-src="holder.js/332x100" alt="">
                     <h2>Rackspace and Open<span class="red">Stack</span></h2>
                         <p>Lorem ipsr adm   enetur cupiditate dolorem porro quidem temporibus repudiandae rerumate dolorem porro.</p>
-                        <button class="btn btn-primary btn-block">Build Infrastructure with OpenStack</button>
+                        <a href="/coming-soon.php" class="btn btn-primary btn-block">Build Infrastructure with OpenStack</a>
                 </div>
 
                 <div class="span4 well">
@@ -68,7 +68,7 @@
                                 <div class="control-group">
                                     <div class="controls ">
                                         <input type="text" class="input" id="input01" placeholder="foo@bar.com"> 
-                                        <button class="btn" type="submit">Subscribe</button>
+                                        <a href="/coming-soon.php" class="btn" type="submit">Subscribe</a>
                                     </div>
                                 </div>
 

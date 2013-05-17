@@ -16,7 +16,7 @@
                     <li class="dropdown">
                         <a href="#" class="dropdown-toggle" data-toggle="dropdown">SDKs & Docs <b class="caret"></b></a>
                         <ul class="dropdown-menu">
-                            <li><a href="/language.php">Ruby</a></li>
+                            <li><a href="/">Ruby</a></li>
                             <li><a href="#">Python</a></li>
                             <li><a href="#">PHP</a></li>
                             <li><a href="#">Java</a></li>
@@ -31,7 +31,7 @@
 
                             </ul>
                         </li>
-                        <li><a href="/blog_landing.php">DevOps Blog</a></li>
+                        <li><a href="/blog/">DevOps Blog</a></li>
 
 
                         

@@ -1,7 +1,7 @@
 <div class="tab-pane active" id="home-repos-featured">
     <h3 class="narrow">Featured Projects</h3>
     <ul class="repolist js-repo-list">
-        <li class="row-fluid" data-repo="repose">
+        <li class="row-fluid" data-user="rackerlabs" data-repo="repose">
                 <div class="repo-image span1">
                     <img data-src="holder.js/60x60" alt="">
                 </div>
@@ -23,7 +23,7 @@
                 <div id="graph-repose" class="graphDiv"></div>
         </li>
 
-        <li class="row-fluid" data-repo="openstack-guest-agents-unix">
+        <li class="row-fluid" data-user="rackerlabs" data-repo="openstack-guest-agents-unix">
                 <div class="repo-image span1">
                     <img data-src="holder.js/60x60" alt="">
                 </div>            
@@ -47,7 +47,7 @@ for a guest.</p>
         </li>   
 
 
-        <li class="row-fluid" data-repo="stacktach">
+        <li class="row-fluid" data-user="rackerlabs" data-repo="stacktach">
                 <div class="repo-image span1">
                     <img data-src="holder.js/60x60" alt="">
                 </div>
@@ -69,7 +69,7 @@ for a guest.</p>
                 <div id="graph-stacktach" class="graphDiv"></div>
         </li>
 
-        <li class="row-fluid" data-repo="atom-hopper">
+        <li class="row-fluid" data-user="rackerlabs" data-repo="atom-hopper">
                 <div class="repo-image span1">
                     <img data-src="holder.js/60x60" alt="">
                 </div>            
