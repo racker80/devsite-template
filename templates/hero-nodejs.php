@@ -1,5 +1,16 @@
                             <div class="tab-pane" id="hero-nodejs">
                                 <div class="language-overview well">
+                                    <div class="row-fluid language-intro">
+                                        <div class="span2">
+                                             <img src="/static/img/logos/Nodejs_logo_light.png" alt="">
+                                        </div>
+                                        <div class="span10">
+                                             <p class="text16">
+                                                 Node.js is a platform built on Chrome's JavaScript runtime for easily building fast, scalable network applications.
+                                             </p>
+                                        </div>
+
+                                    </div>
                                     <div class="row-fluid">
                                         <div class="span4">
                                             <dl>
