@@ -1,6 +1,6 @@
     <div class="hero-unit">
         <div class="container">
-            
+
 
                 <div class="">
                     <h1>Develop Great Software for the Open Cloud</h1>
@@ -16,13 +16,14 @@
                         </ul>
 
                         <div class="tab-content">
-                        
+
                             <?php include('templates/hero-openstack.php'); ?>
                             <?php include('templates/hero-php.php'); ?>
                             <?php include('templates/hero-ruby.php'); ?>
                             <?php include('templates/hero-java.php'); ?>
                             <?php include('templates/hero-python.php'); ?>
                             <?php include('templates/hero-net.php'); ?>
+                            <?php include('templates/hero-nodejs.php'); ?>
 
 
                         </div>
@@ -58,7 +59,7 @@
                 </div>
 
                 <div class="span4 well">
-                
+
                          <form class="mailing-list form-inline">
                             <fieldset>
                                 <legend>
@@ -67,14 +68,14 @@
                                 </legend>
                                 <div class="control-group">
                                     <div class="controls ">
-                                        <input type="text" class="input" id="input01" placeholder="foo@bar.com"> 
+                                        <input type="text" class="input" id="input01" placeholder="foo@bar.com">
                                         <a href="/coming-soon.php" class="btn" type="submit">Subscribe</a>
                                     </div>
                                 </div>
 
                             </fieldset>
                         </form>
-                </div>                
+                </div>
            </div>
 
          </div><!-- container -->
