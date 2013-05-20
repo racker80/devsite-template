@@ -1,18 +1,19 @@
                             <div class="tab-pane" id="hero-net">
                                 <div class="language-overview well">
-                                    <div class="row-fluid language-intro">
-                                        <div class="span2">
-                                             <img src="/static/img/logos/net_logo.jpg" alt="">
 
-                                        </div>
-                                        <div class="span10">
-                                             <p class="text16">
+                                    <table class="language-intro-table table">
+                                        <tbody>
+                                            <tr>
+                                                <td class="logo"><img src="/static/img/logos/net_logo.jpg" alt=""></td>
+                                                <td class="text12">
                                                  The .NET Framework is a popular development platform for building apps for Windows, Windows Store, Windows Phone, Windows Server, and Windows Azure.
 
-                                             </p>
-                                        </div>
+                                                </td>
+                                            </tr>
+                                        </tbody>
+                                    </table>
 
-                                    </div>
+
                                     <div class="row-fluid">
                                         <div class="span4">
                                             <dl>

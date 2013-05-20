@@ -1,17 +1,14 @@
                             <div class="tab-pane" id="hero-java">
                                 <div class="language-overview well">
-                                    <div class="row-fluid language-intro">
-                                        <div class="span2">
-                                             <img src="/static/img/logos/javalogo-81x162.png" alt="">
+                                    <table class="language-intro-table table">
+                                        <tbody>
+                                            <tr>
+                                                <td class="logo"><img src="/static/img/logos/javalogo-81x162.png" alt=""></td>
+                                                <td class="text12">Java is a programming language and computing platform first released by Sun Microsystems in 1995.</td>
+                                            </tr>
+                                        </tbody>
+                                    </table>
 
-                                        </div>
-                                        <div class="span10">
-                                             <p class="text16">
-                                                 Java is a programming language and computing platform first released by Sun Microsystems in 1995.
-                                             </p>
-                                        </div>
-
-                                    </div>
                                     <div class="row-fluid">
                                         <div class="span4">
                                             <dl>

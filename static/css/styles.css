@@ -9379,6 +9379,24 @@ HERO
 .hero-unit .language-overview .language-intro p {
   padding-top: 15px;
 }
+.hero-unit .language-overview .language-intro .logo {
+  text-align: center;
+}
+.hero-unit .language-overview .language-intro .logo img {
+  height: 65px;
+  width: auto;
+}
+.hero-unit .language-overview .language-intro-table {
+  border: 0;
+  width: 100%;
+}
+.hero-unit .language-overview .language-intro-table td {
+  border: 0;
+  vertical-align: middle;
+}
+.hero-unit .language-overview .language-intro-table td.logo img {
+  height: 55px;
+}
 .hero-unit .language-overview dl dt {
   border-bottom: 1px solid #d2d2d2;
   margin-bottom: 10px;

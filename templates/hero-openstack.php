@@ -1,19 +1,17 @@
                             <div class="tab-pane active" id="hero-openstack">
                         
                                 <div class="language-overview well">
-                                    <div class="row-fluid language-intro">
-                                        <div class="span2">
-                                             <img src="/static/img/logos/open-stack.png" alt="">
-
-                                        </div>
-                                        <div class="span10">
-                                             <p class="text16">
-                                                 OpenStack allows any company or organization to build a cloud... anywhere.  It's open source, Free, and supported by Rackspace.  
-
-                                             </p>
-                                        </div>
-
-                                    </div>
+                                    <table class="language-intro-table table">
+                                        <tbody>
+                                            <tr>
+                                                <td class="logo"><img src="/static/img/logos/open-stack.png" alt=""></td>
+                                                <td class="text12">OpenStack allows any company or organization to build a cloud... anywhere.  It's open source, Free, and supported by Rackspace.  
+                                                </td>
+                                            </tr>
+                                        </tbody>
+                                    </table>
+                                    
+                                    
                                     <div class="row-fluid">
                                         <div class="span4">
                                             <dl>
