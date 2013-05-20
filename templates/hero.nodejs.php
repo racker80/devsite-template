@@ -3,7 +3,6 @@
                                     <div class="row-fluid language-intro">
                                         <div class="span2">
                                              <img src="/static/img/logos/Nodejs_logo_light.png" alt="">
-
                                         </div>
                                         <div class="span10">
                                              <p class="text16">
