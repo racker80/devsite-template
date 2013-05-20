@@ -31,24 +31,14 @@
                                                     <strong>Twitter:</strong> <a href="https://twitter.com/jclouds">@jclouds</a>
                                                 </dd>
                                                 <dd>
-                                                    <strong>IRC:</strong> <a href="irc://irc.freenode.net/ruby-fog">#ruby-fog</a> on irc.freenode.net
+                                                    <strong>IRC:</strong> <a href="irc://irc.freenode.net/jclouds">#jclouds</a> on irc.freenode.net
                                                 </dd>
                                                 <dd>
-                                                    <strong>Mailing List:</strong> <a href="http://groups.google.com/group/ruby-fog">ruby-fog</a>
+                                                    <strong>Mailing List:</strong> <a href="http://groups.google.com/group/jclouds-dev">jclouds-dev</a>
                                                 </dt>
                                                 <dd>
-                                                    <strong>Report Issues:</strong> <a href="https://github.com/fog/fog/issues">Github</a>
+                                                    <strong>Report Issues:</strong> <a href="https://github.com/jclouds/jclouds/issues">Issue Tracker</a>
                                                 </dt>
-
-                                            </dl>
-
-                                            <dl>
-                                                <dt>Community Links</dt>
-                                                <dd>
-                                                    <a href="https://groups.google.com/forum/?fromgroups#!forum/jclouds">jClouds on google groups</a>
-                                                </dd>
-
-                                                <dd><a href="https://twitter.com/jclouds">@jcoulds</a></dd>
                                             </dl>
 
                                         </div>
