@@ -1,8 +1,10 @@
         <div id="home-openstack" class="container">
             <div class="row">
                 <div class="span8">
-                    <h2>Get started by installing or renting an OpenStack cluster!</h2>
-                    <hr>
+                    <header class="section-header">
+                        <h2 class="section-title lite">Don't get locked in.</h2>
+                        <h3>Open<span class="red">Stack</span> allows you to choose your cloud provider or build your own cloud.</h3>
+                    </header>
                     <div class="row-fluid">
                         <div class="span6">
                             <h4>Do you have Servers?</h4>
