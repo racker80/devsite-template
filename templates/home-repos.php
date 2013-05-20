@@ -2,12 +2,12 @@
 
 <div class="row-fluid">
     <div class="span9">
-        
+
 
             <header class="section-header">
                 <h2 class="section-title lite">Open Cloud Community Projects</h2>
             </header>
-            
+
             <div class="row-fluid">
 
                 <div class="span2">
@@ -25,7 +25,7 @@
 
                 <div class="span10">
                     <div class="tab-content">
-                        
+
                         <?php include('home-repos-featured.php'); ?>
                         <?php include('home-repos-openstack.php'); ?>
                         <?php include('home-repos-rackspace.php'); ?>
@@ -33,23 +33,24 @@
                     </div>
 
 
-                    
+
                 </div><!-- span 10 -->
 
             </div><!-- row -->
 
     </div><!-- span 8 -->
-    
+
     <div class="span3">
-        <h3>More Open Source</h3>
+        <h3>Join the Community!</h3>
         <dl>
-            <dt>irc.freenode.net</dt>
+            <dt>IRC: irc.freenode.net</dt>
             <dd>
-                #rackspace
+                <a href="irc://irc.freenode.net/rackspace">#rackspace</a>
              </dd>
-             <dd>#ruby-fog</dd>
-             <dd>openstack</dd>               
-            
+             <dd>
+                <a href="irc://irc.freenode.net/openstack">openstack</a>
+             </dd>
+
             <dt>Twitter</dt>
             <dd>
                 <a href="https://twitter.com/rackspace">@rackspace</a>
