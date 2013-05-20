@@ -1,12 +1,11 @@
         <div id="home-repos" class="container">
 
-<div class="row-fluid">
-    <div class="span9">
-
 
             <header class="section-header">
                 <h2 class="section-title lite">Open Cloud Community Projects</h2>
             </header>
+
+<div class="row-fluid">
 
             <div class="row-fluid">
 
@@ -21,6 +20,26 @@
                         </ul>
 
                     </div><!-- tabbable -->
+                  
+                    <div id="community-sidebar">
+                        <h4>Community Links</h4>
+                        <dl class="dl-list">
+                            <dt>IRC: irc.freenode.net</dt>
+                            <dd>
+                                <a href="irc://irc.freenode.net/rackspace">#rackspace</a>
+                            </dd>
+                            <dd>
+                                <a href="irc://irc.freenode.net/openstack">#openstack</a>
+                            </dd>
+                            <br/>
+                            <dt>Twitter</dt>
+                            <dd>
+                                <a href="https://twitter.com/rackspace">@rackspace</a>
+                            </dd>
+
+                        </dl>
+                    </div>
+
                 </div><!-- span2 -->
 
                 <div class="span10">
@@ -38,27 +57,7 @@
 
             </div><!-- row -->
 
-    </div><!-- span 8 -->
 
-    <div class="span3">
-        <h3>Join the Community!</h3>
-        <dl>
-            <dt>IRC: irc.freenode.net</dt>
-            <dd>
-                <a href="irc://irc.freenode.net/rackspace">#rackspace</a>
-             </dd>
-             <dd>
-                <a href="irc://irc.freenode.net/openstack">#openstack</a>
-             </dd>
-             <br/>
-            <dt>Twitter</dt>
-            <dd>
-                <a href="https://twitter.com/rackspace">@rackspace</a>
-            </dd>
-
-        </dl>
-
-    </div><!-- span 4 -->
 </div>
 
 
