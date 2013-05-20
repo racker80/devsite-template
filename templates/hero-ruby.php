@@ -1,5 +1,13 @@
                             <div class="tab-pane" id="hero-ruby">
                                 <div class="language-overview well">
+                                    <table class="language-intro-table table">
+                                        <tbody>
+                                            <tr>
+                                                <td class="logo"><img src="/static/img/logos/198px-Ruby_logo.png" alt=""></td>
+                                                <td class="text12">A dynamic, open source programming language with a focus on simplicity and productivity.</td>
+                                            </tr>
+                                        </tbody>
+                                    </table>
                                     <div class="row-fluid">
                                         <div class="span4">
                                             <dl>
