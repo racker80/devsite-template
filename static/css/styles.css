@@ -9250,6 +9250,9 @@ NAVBAR
 .navbar .navbar-inner .container .nav-collapse .nav > li > a {
   line-height: 20px;
 }
+.navbar .dropdown-menu a {
+  text-decoration: none;
+}
 /************************************
 FOOTER
 ************************************/
@@ -9473,7 +9476,7 @@ HERO
   top: 5px;
 }
 /************************************
-HERO
+REPOS
 ************************************/
 #home-repos .tabbable {
   float: none!important;
@@ -9601,6 +9604,29 @@ HERO
   right: 0;
   z-index: 1;
   width: 50%;
+}
+/************************************
+SERVICES
+************************************/
+.services-table tbody tr td {
+  vertical-align: top;
+}
+.services-table tbody tr td.logo img {
+  display: block;
+}
+.services-table tbody tr td.description {
+  color: #4c4c4c;
+  font-size: 12px;
+  line-height: 130%;
+  letter-spacing: .02em;
+  margin: 0 0 1em 0;
+}
+.services-table tbody tr td.description p {
+  color: #4c4c4c;
+  font-size: 14px;
+  line-height: 140%;
+  letter-spacing: .01em;
+  margin: 0 0 1em 0;
 }
 /************************************
 BLOG

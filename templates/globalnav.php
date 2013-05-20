@@ -9,7 +9,7 @@
              <a class="brand brand-fixed" href="/">
                 <img alt="Rackspace Developers" height="18" src="/static/img/logo.png" style="margin-bottom: -1px;" width="18"> <span>Rackspace Developers</span>
              </a>
-             <a href="/signup.php" id="join" class="btn btn-invite pull-right">Get Invited</a>
+             <a href="/signup.php" id="join" class="btn btn-invite pull-right">Access Rackspace Cloud</a>
              <div class="nav-collapse">
                 <ul class="nav nav-pills">
                     <li><a href="/coming-soon.php">Get Started</a></li>

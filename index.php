@@ -5,8 +5,9 @@
     <div id="page">
         <?php include('templates/home-openstack.php'); ?>
 
-                <?php include('templates/home-repos.php'); ?>
-               <?php include('templates/home-blog.php'); ?> 
+        <?php include('templates/home-repos.php'); ?>
+        <?php include('templates/home-blog.php'); ?> 
+        <?php include('templates/home-services.php'); ?> 
 
   
     </div><!-- page -->

@@ -148,7 +148,9 @@ NAVBAR
     DROPDOWN
     *********************************************************/
     .dropdown-menu {
-        
+        a {
+            text-decoration:none;
+        }
         .dropdown-label {
             
         }
@@ -434,7 +436,7 @@ HERO
 
 
 /************************************
-HERO
+REPOS
 ************************************/
 #home-repos {
 
@@ -455,105 +457,127 @@ HERO
     }
 
     .repo-table {
-    td {
-        h2 {
-            margin:0;
-            padding:0;
-        }
-        p {
-            .text14;
-            margin:0;
-            line-height:1em;
-        }
-        small {
-            .text12;
-            margin:0;
+        td {
+            h2 {
+                margin:0;
+                padding:0;
+            }
+            p {
+                .text14;
+                margin:0;
+                line-height:1em;
+            }
+            small {
+                .text12;
+                margin:0;
+            }
         }
     }
-}
 
 
-.repolist {
-    position:relative;
-    .clearfix;
-    margin-bottom:60px;
-    li {
+    .repolist {
         position:relative;
-        z-index:100;
-        overflow:hidden;
-        padding-bottom:30px;
-        margin:0 0 0px 0;
-        border-bottom:1px solid #eaeaea;
-        >div {
+        .clearfix;
+        margin-bottom:60px;
+        li {
             position:relative;
-            z-index:101;
-            &.repo-image {
+            z-index:100;
+            overflow:hidden;
+            padding-bottom:30px;
+            margin:0 0 0px 0;
+            border-bottom:1px solid #eaeaea;
+            >div {
                 position:relative;
-                top:10px;
-                left:0px;
-            }
-            &.repo-description {
-                position:relative;
-                top:10px;
-                left:0px;
-                h3 {
-                    padding:0;
-                    font-size:20px;
-                    margin:0;
-                    line-height:1em;
-                    a {
-                        text-decoration:none;
-                        color:@rackRed;
+                z-index:101;
+                &.repo-image {
+                    position:relative;
+                    top:10px;
+                    left:0px;
+                }
+                &.repo-description {
+                    position:relative;
+                    top:10px;
+                    left:0px;
+                    h3 {
+                        padding:0;
+                        font-size:20px;
+                        margin:0;
+                        line-height:1em;
+                        a {
+                            text-decoration:none;
+                            color:@rackRed;
+                        }
+                    }
+                    p.meta {
+                        line-height:25px;
+                        .text12;
+                    }
+                    p.lead {
+                        margin-bottom:0;
+                        font-size:14px;
+                        line-height:1em;
+                    }
+                    strong {
+                        .narrow;
+                    }
+                    small {
+                        margin:5px 0;
+                        img {
+                            display:inline-block;
+                            position:relative;
+                            top:5px;
+
+                        }
+                    }
+                    em {
+                        font-weight:800;
                     }
                 }
-                p.meta {
-                    line-height:25px;
-                    .text12;
-                }
-                p.lead {
-                    margin-bottom:0;
-                    font-size:14px;
-                    line-height:1em;
-                }
-                strong {
-                    .narrow;
-                }
-                small {
-                    margin:5px 0;
-                    img {
-                        display:inline-block;
-                        position:relative;
-                        top:5px;
 
-                    }
+                &.repo-info {
+                    position:absolute;
+                    top:55px;
+                    right:0;
                 }
-                em {
-                    font-weight:800;
+                &.graphDiv {
+                    position:absolute;
+                    bottom:0;
+                    right:0;
+                    z-index:1;
+                    width:50%;
                 }
+
             }
 
-            &.repo-info {
-                position:absolute;
-                top:55px;
-                right:0;
-            }
-            &.graphDiv {
-                position:absolute;
-                bottom:0;
-                right:0;
-                z-index:1;
-                width:50%;
-            }
-
-        }
+        } 
 
     }
 
-
-
-    
-
 }
+
+
+/************************************
+SERVICES
+************************************/
+.services-table {
+    tbody {
+        tr {
+            td {
+                vertical-align:top;
+            }
+            td.logo {
+                img {
+                    display:block;
+                }
+            }
+            td.description {
+                .text12;
+                p {
+                    .text14;
+                }
+            }
+        }
+    }
 
 }
 
