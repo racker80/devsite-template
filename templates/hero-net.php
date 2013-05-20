@@ -1,5 +1,18 @@
                             <div class="tab-pane" id="hero-net">
                                 <div class="language-overview well">
+                                    <div class="row-fluid language-intro">
+                                        <div class="span2">
+                                             <img src="/static/img/logos/net_logo.jpg" alt="">
+
+                                        </div>
+                                        <div class="span10">
+                                             <p class="text16">
+                                                 The .NET Framework is a popular development platform for building apps for Windows, Windows Store, Windows Phone, Windows Server, and Windows Azure.
+
+                                             </p>
+                                        </div>
+
+                                    </div>
                                     <div class="row-fluid">
                                         <div class="span4">
                                             <dl>
@@ -14,9 +27,9 @@
                                                     <br>
                                                     <a href="http://visualstudiogallery.msdn.microsoft.com/27077b70-9dad-4c64-adcf-c7cf6bc9970c">NuGet package manager</a>
                                                 </dd>
-                                                
+
                                             </dl>
-                                            
+
                                         </div>
                                         <div class="span4">
                                             <dl>
@@ -36,7 +49,7 @@
                                                     to accomplish common tasks.
                                                 </dd>
                                             </dl>
-                                            
+
                                         </div>
                                         <div class="span4">
                                             <dl>
@@ -45,9 +58,9 @@
                                                     <a class="link" href="http://openstacknetsdk.com/" target="_top">Getting Started with openstack.net</a>                                                </dd>
                                                 </dd>
                                             </dl>
-                                            
+
                                         </div>
                                     </div><!-- row -->
-                                
-                                </div><!-- well -->   
+
+                                </div><!-- well -->
                             </div>
