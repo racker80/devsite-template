@@ -9521,6 +9521,12 @@ HERO
   position: relative;
   top: 5px;
 }
+.hero-unit.openstack-hero .openstack-hero-content h1,
+.hero-unit.openstack-hero .openstack-hero-content h2,
+.hero-unit.openstack-hero .openstack-hero-content h3,
+.hero-unit.openstack-hero .openstack-hero-content p {
+  text-align: center;
+}
 /************************************
 REPOS
 ************************************/

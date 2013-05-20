@@ -9,10 +9,10 @@
              <a class="brand brand-fixed" href="/">
                 <img alt="Rackspace Developers" height="18" src="/static/img/logo.png" style="margin-bottom: -1px;" width="18"> <span>Rackspace Developers</span>
              </a>
-             <a href="/signup.php" id="join" class="btn btn-invite pull-right">Access Rackspace Cloud</a>
+             <a href="/signup.php" id="join" class="btn btn-invite pull-right">Get Rackspace Cloud</a>
              <div class="nav-collapse">
                 <ul class="nav nav-pills">
-                    <li><a href="/coming-soon.php">Get Started</a></li>
+                    <li><a href="https://cart.rackspace.com/cloud/?cp_id=cloud_servers_msl" target="_blank">Get Started</a></li>
                     <li class="dropdown">
                         <a href="#" class="dropdown-toggle" data-toggle="dropdown">SDKs & Docs <b class="caret"></b></a>
                         <ul class="dropdown-menu">

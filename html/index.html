@@ -31,25 +31,26 @@
              <a class="brand brand-fixed" href="/">
                 <img alt="Rackspace Developers" height="18" src="/static/img/logo.png" style="margin-bottom: -1px;" width="18"> <span>Rackspace Developers</span>
              </a>
-             <a href="/html/signup.html" id="join" class="btn btn-invite pull-right">Get Invited</a>
+             <a href="/html/signup.html" id="join" class="btn btn-invite pull-right">Access Rackspace Cloud</a>
              <div class="nav-collapse">
                 <ul class="nav nav-pills">
-                    <li><a href="#">Get Started</a></li>
+                    <li><a href="/html/openstack.html">Get Started</a></li>
                     <li class="dropdown">
                         <a href="#" class="dropdown-toggle" data-toggle="dropdown">SDKs & Docs <b class="caret"></b></a>
                         <ul class="dropdown-menu">
-                            <li><a href="/html/">Ruby</a></li>
-                            <li><a href="#">Python</a></li>
-                            <li><a href="#">PHP</a></li>
-                            <li><a href="#">Java</a></li>
+                            <li><a href="http://docs.rackspace.com/sdks/guide/content/python.html" target="_blank">Python</a></li>
+                            <li><a href="http://docs.rackspace.com/sdks/guide/content/ruby.html" target="_blank">Ruby</a></li>
+                            <li><a href="http://docs.rackspace.com/sdks/api/php/" target="_blank">PHP</a></li>
+                            <li><a href="http://docs.rackspace.com/sdks/guide/content/java.html" target="_blank">Java</a></li>
+                            <li><a href="http://openstacknetsdk.org/docs/" target="_blank">.Net</a></li>
                             
                         </ul>
                         <li class="dropdown"><a href="#" class="dropdown-toggle" data-toggle="dropdown">Open Stack <b class="caret"></b></a>
                             <ul class="dropdown-menu">
-                                <li><a href="#">API</a></li>
-                                <li><a href="#">About Open Stack</a></li>
-                                <li><a href="#">Community</a></li>
-                                <li><a href="#">Rackspace & Open Stack</a></li>
+                                <li><a href="http://docs.openstack.org/api/" target="_blank">API</a></li>
+                                <li><a href="http://www.openstack.org/software/" target="_blank">About Open Stack</a></li>
+                                <li><a href="http://www.openstack.org/community/" target="_blank">Community</a></li>
+                                <li><a href="http://www.rackspace.com/cloud/openstack/" target="_blank">Rackspace & Open Stack</a></li>
 
                             </ul>
                         </li>
@@ -64,7 +65,7 @@
     </div><!-- /navbar-inner -->
 </div>        <div class="hero-unit">
         <div class="container">
-            
+
 
                 <div class="">
                     <h1>Develop Great Software for the Open Cloud</h1>
@@ -77,26 +78,25 @@
                             <li><a href="#hero-java" data-toggle="tab">Java</a></li>
                             <li><a href="#hero-python" data-toggle="tab">Python</a></li>
                             <li><a href="#hero-net" data-toggle="tab">.Net</a></li>
+                            <li><a href="#hero-nodejs" data-toggle="tab">Node.js</a></li>
                         </ul>
 
                         <div class="tab-content">
-                        
+
                                                         <div class="tab-pane active" id="hero-openstack">
                         
                                 <div class="language-overview well">
-                                    <div class="row-fluid language-intro">
-                                        <div class="span2">
-                                             <img src="/static/img/logos/open-stack.png" alt="">
-
-                                        </div>
-                                        <div class="span10">
-                                             <p class="text16">
-                                                 OpenStack allows any company or organization to build a cloud... anywhere.  It's open source, Free, and supported by Rackspace.  
-
-                                             </p>
-                                        </div>
-
-                                    </div>
+                                    <table class="language-intro-table table">
+                                        <tbody>
+                                            <tr>
+                                                <td class="logo"><img src="/static/img/logos/open-stack.png" alt=""></td>
+                                                <td class="text12">OpenStack allows any company or organization to build a cloud... anywhere.  It's open source, Free, and supported by Rackspace.  
+                                                </td>
+                                            </tr>
+                                        </tbody>
+                                    </table>
+                                    
+                                    
                                     <div class="row-fluid">
                                         <div class="span4">
                                             <dl>
@@ -198,6 +198,14 @@
                                 </div><!-- well -->   
                             </div>                                                        <div class="tab-pane" id="hero-ruby">
                                 <div class="language-overview well">
+                                    <table class="language-intro-table table">
+                                        <tbody>
+                                            <tr>
+                                                <td class="logo"><img src="/static/img/logos/198px-Ruby_logo.png" alt=""></td>
+                                                <td class="text12">A dynamic, open source programming language with a focus on simplicity and productivity.</td>
+                                            </tr>
+                                        </tbody>
+                                    </table>
                                     <div class="row-fluid">
                                         <div class="span4">
                                             <dl>
@@ -211,16 +219,32 @@
                                                         Website: <a href="http://fog.io">http://fog.io</a>
 
                                                 </dd>
-                                                
+
                                             </dl>
-                                            
+                                            <dl>
+                                                <dt>Community Links</dt>
+                                                <dd>
+                                                    <strong>Twitter:</strong> <a href="https://twitter.com/fog">@fog</a>
+                                                </dd>
+                                                <dd>
+                                                    <strong>IRC:</strong> <a href="irc://irc.freenode.net/ruby-fog">#ruby-fog</a> on irc.freenode.net
+                                                </dd>
+                                                <dd>
+                                                    <strong>Mailing List:</strong> <a href="http://groups.google.com/group/ruby-fog">ruby-fog</a>
+                                                </dt>
+                                                <dd>
+                                                    <strong>Report Issues:</strong> <a href="https://github.com/fog/fog/issues">Github</a>
+                                                </dt>
+
+                                            </dl>
+
                                         </div>
                                         <div class="span4">
                                             <dl>
                                                 <dt>Ruby Docs and Resources</dt>
                                                 <dd>
                                                     <a class="link" href="http://rubydoc.info/gems/fog/" target="_top">API Reference Manual</a> – detailed
-                                                    documentation for the classes and methods.                              
+                                                    documentation for the classes and methods.
                                                 </dd>
                                                 <dd>
                                                     <a class="link" href="https://github.com/fog/fog/tree/master/lib/fog/rackspace/docs" target="_top">Ruby SDK Quick Reference</a> – several quick
@@ -235,7 +259,7 @@
                                                     accomplish common tasks.
                                                 </dd>
                                             </dl>
-                                            
+
                                         </div>
                                         <div class="span4">
                                             <dl>
@@ -244,13 +268,22 @@
                                                     <a class="link" href="https://github.com/fog/fog/blob/master/lib/fog/rackspace/docs/getting_started.md" target="_top">Getting Started with Fog and the Rackspace Cloud</a>
                                                 </dd>
                                             </dl>
-                                            
+
                                         </div>
                                     </div><!-- row -->
-                                
-                                </div><!-- well -->   
+
+                                </div><!-- well -->
                             </div>                                                        <div class="tab-pane" id="hero-java">
                                 <div class="language-overview well">
+                                    <table class="language-intro-table table">
+                                        <tbody>
+                                            <tr>
+                                                <td class="logo"><img src="/static/img/logos/javalogo-81x162.png" alt=""></td>
+                                                <td class="text12">Java is a programming language and computing platform first released by Sun Microsystems in 1995.</td>
+                                            </tr>
+                                        </tbody>
+                                    </table>
+
                                     <div class="row-fluid">
                                         <div class="span4">
                                             <dl>
@@ -260,9 +293,26 @@
                                                     <br>
                                                     The official The Rackspace Cloud SDK for Java
                                                 </dd>
-                                                
+                                                <dd>Webiste - <a href="http://www.jclouds.org/">jclouds.org</a></dd>
+
                                             </dl>
-                                            
+
+                                            <dl>
+                                                <dt>Community Links</dt>
+                                                <dd>
+                                                    <strong>Twitter:</strong> <a href="https://twitter.com/jclouds">@jclouds</a>
+                                                </dd>
+                                                <dd>
+                                                    <strong>IRC:</strong> <a href="irc://irc.freenode.net/jclouds">#jclouds</a> on irc.freenode.net
+                                                </dd>
+                                                <dd>
+                                                    <strong>Mailing List:</strong> <a href="http://groups.google.com/group/jclouds-dev">jclouds-dev</a>
+                                                </dt>
+                                                <dd>
+                                                    <strong>Report Issues:</strong> <a href="https://github.com/jclouds/jclouds/issues">Issue Tracker</a>
+                                                </dt>
+                                            </dl>
+
                                         </div>
                                         <div class="span4">
                                             <dl>
@@ -270,7 +320,7 @@
                                                 <dd>
                                                     <a class="link" href="http://docs.rackspace.com/sdks/api/php/" target="_top">API Reference Manual</a>   – detailed documentation for the classes and
                                                 </dd>
-                              
+
                                                 <dd>
                                                     <a class="link" href="https://github.com/rackspace/php-opencloud/blob/master/docs/quickref.md" target="_top">php-opencloud Quick Reference</a> – quick
                                                     reference information for the services available.
@@ -284,7 +334,7 @@
                                                     demonstrating how to accomplish common tasks.
                                                 </dd>
                                             </dl>
-                                            
+
                                         </div>
                                         <div class="span4">
                                             <dl>
@@ -293,11 +343,11 @@
                                                     <a class="link" href="https://github.com/rackspace/php-opencloud/blob/master/docs/userguide/index.md" target="_top">Getting Started with php-opencloud</a>
                                                 </dd>
                                             </dl>
-                                            
+
                                         </div>
                                     </div><!-- row -->
-                                
-                                </div><!-- well -->   
+
+                                </div><!-- well -->
                             </div>                                                        <div class="tab-pane" id="hero-python">
                                 <div class="language-overview well">
                                     <div class="row-fluid">
@@ -353,6 +403,20 @@
                                 </div><!-- well -->   
                             </div>                                                        <div class="tab-pane" id="hero-net">
                                 <div class="language-overview well">
+
+                                    <table class="language-intro-table table">
+                                        <tbody>
+                                            <tr>
+                                                <td class="logo"><img src="/static/img/logos/net_logo.jpg" alt=""></td>
+                                                <td class="text12">
+                                                 The .NET Framework is a popular development platform for building apps for Windows, Windows Store, Windows Phone, Windows Server, and Windows Azure.
+
+                                                </td>
+                                            </tr>
+                                        </tbody>
+                                    </table>
+
+
                                     <div class="row-fluid">
                                         <div class="span4">
                                             <dl>
@@ -367,9 +431,9 @@
                                                     <br>
                                                     <a href="http://visualstudiogallery.msdn.microsoft.com/27077b70-9dad-4c64-adcf-c7cf6bc9970c">NuGet package manager</a>
                                                 </dd>
-                                                
+
                                             </dl>
-                                            
+
                                         </div>
                                         <div class="span4">
                                             <dl>
@@ -389,7 +453,7 @@
                                                     to accomplish common tasks.
                                                 </dd>
                                             </dl>
-                                            
+
                                         </div>
                                         <div class="span4">
                                             <dl>
@@ -398,11 +462,80 @@
                                                     <a class="link" href="http://openstacknetsdk.com/" target="_top">Getting Started with openstack.net</a>                                                </dd>
                                                 </dd>
                                             </dl>
-                                            
+
                                         </div>
                                     </div><!-- row -->
-                                
-                                </div><!-- well -->   
+
+                                </div><!-- well -->
+                            </div>                                                        <div class="tab-pane" id="hero-nodejs">
+                                <div class="language-overview well">
+                                    <div class="row-fluid language-intro">
+                                        <div class="span2">
+                                             <img src="/static/img/logos/Nodejs_logo_light.png" alt="">
+                                        </div>
+                                        <div class="span10">
+                                             <p class="text16">
+                                                 Node.js is a platform built on Chrome's JavaScript runtime for easily building fast, scalable network applications.
+                                             </p>
+                                        </div>
+
+                                    </div>
+                                    <div class="row-fluid">
+                                        <div class="span4">
+                                            <dl>
+                                                <dt>Node.js Supported SDKs</dt>
+                                                <dd>
+                                                    <a href="https://github.com/nodejitsu/pkgcloud">Node.js SDK - pkgcloud</a>
+                                                    <br>
+
+                                                    The official Rackspace SDK for Node.js.
+
+                                                </dd>
+
+                                            </dl>
+                                            <dl>
+                                                <dt>Community Links</dt>
+                                                <dd>
+                                                    TDB
+                                                </dd>
+
+                                            </dl>
+
+                                        </div>
+                                        <div class="span4">
+                                            <dl>
+                                                <dt>Node.js Docs and Resources</dt>
+                                                <dd>
+                                                    <a class="link" href="#" target="_top">API Reference Manual</a> – detailed
+                                                    documentation for the classes and methods.
+                                                </dd>
+                                                <dd>
+                                                    <a class="link" href="#" target="_top">Node.js SDK Quick Reference</a> – several quick
+                                                    reference guides for the services available.
+                                                </dd>
+                                                <dd>
+                                                    <a class="link" href="https://github.com/nodejitsu/pkgcloud/blob/master/CHANGELOG.md" target="_top">Release Notes</a> – release notes for software
+                                                    versions.
+                                                </dd>
+                                                <dd>
+                                                    <a class="link" href="https://github.com/nodejitsu/pkgcloud/blob/master/docs/providers/rackspace.md" target="_top">Examples</a> – code examples demonstrating how to
+                                                    accomplish common tasks.
+                                                </dd>
+                                            </dl>
+
+                                        </div>
+                                        <div class="span4">
+                                            <dl>
+                                                <dt>Node.js Cookbooks</dt>
+                                                <dd>
+                                                    <a class="link" href="#" target="_top">Getting Started with pkgcloud and the Rackspace Cloud</a>
+                                                </dd>
+                                            </dl>
+
+                                        </div>
+                                    </div><!-- row -->
+
+                                </div><!-- well -->
                             </div>
 
                         </div>
@@ -438,7 +571,7 @@
                 </div>
 
                 <div class="span4 well">
-                
+
                          <form class="mailing-list form-inline">
                             <fieldset>
                                 <legend>
@@ -447,14 +580,14 @@
                                 </legend>
                                 <div class="control-group">
                                     <div class="controls ">
-                                        <input type="text" class="input" id="input01" placeholder="foo@bar.com"> 
+                                        <input type="text" class="input" id="input01" placeholder="foo@bar.com">
                                         <a href="/html/coming-soon.html" class="btn" type="submit">Subscribe</a>
                                     </div>
                                 </div>
 
                             </fieldset>
                         </form>
-                </div>                
+                </div>
            </div>
 
          </div><!-- container -->
@@ -463,8 +596,10 @@
                 <div id="home-openstack" class="container">
             <div class="row">
                 <div class="span8">
-                    <h2>Get started by installing or renting an OpenStack cluster!</h2>
-                    <hr>
+                    <header class="section-header">
+                        <h2 class="section-title lite">Don't get locked in.</h2>
+                        <h3>Open<span class="red">Stack</span> allows you to choose your cloud provider or build your own cloud.</h3>
+                    </header>
                     <div class="row-fluid">
                         <div class="span6">
                             <h4>Do you have Servers?</h4>
@@ -489,16 +624,53 @@
             </div>
             <br><br>
         </div>
-                        <div id="home-repos" class="container">
+                <div id="home-repos" class="container">
+
+
             <header class="section-header">
-                <a href="" class="pull-right">view all on github</a>
                 <h2 class="section-title lite">Open Cloud Community Projects</h2>
             </header>
-            
+
+<div class="row-fluid">
+
             <div class="row-fluid">
+
+                <div class="span2">
+
+                    <div class="tabbable tabs-left">
+                        <ul class="nav nav-tabs">
+                            <li class="active"><a href="#home-repos-featured" data-toggle="tab">Featured</a></li>
+                            <li class=""><a href="#home-repos-openstack" data-toggle="tab">OpenStack</a></li>
+                            <li class=""><a href="#home-repos-rackspace" data-toggle="tab">Rackspace</a></li>
+                            <li class=""><a href="#home-repos-other" data-toggle="tab">Other</a></li>
+                        </ul>
+
+                    </div><!-- tabbable -->
+                  
+                    <div id="community-sidebar">
+                        <h4>Community Links</h4>
+                        <dl class="dl-list">
+                            <dt>IRC: irc.freenode.net</dt>
+                            <dd>
+                                <a href="irc://irc.freenode.net/rackspace">#rackspace</a>
+                            </dd>
+                            <dd>
+                                <a href="irc://irc.freenode.net/openstack">#openstack</a>
+                            </dd>
+                            <br/>
+                            <dt>Twitter</dt>
+                            <dd>
+                                <a href="https://twitter.com/rackspace">@rackspace</a>
+                            </dd>
+
+                        </dl>
+                    </div>
+
+                </div><!-- span2 -->
+
                 <div class="span10">
                     <div class="tab-content">
-                        
+
                         <div class="tab-pane active" id="home-repos-featured">
     <h3 class="narrow">Featured Projects</h3>
     <ul class="repolist js-repo-list">
@@ -738,28 +910,21 @@ for a guest.</p>
                         </div>                    </div>
 
 
-                    
+
                 </div><!-- span 10 -->
 
-                <div class="span2">
-                    <br><br>
-                    <h5>Browse By</h5>
-                    <div class="tabbable tabs-right">
-                        <ul class="nav nav-tabs">
-                            <li class="active"><a href="#home-repos-featured" data-toggle="tab">Featured</a></li>
-                            <li class=""><a href="#home-repos-openstack" data-toggle="tab">OpenStack</a></li>
-                            <li class=""><a href="#home-repos-rackspace" data-toggle="tab">Rackspace</a></li>
-                            <li class=""><a href="#home-repos-other" data-toggle="tab">Other</a></li>
-                        </ul>
-
-                    </div><!-- tabbable -->
-                </div><!-- span2 -->
-
             </div><!-- row -->
+
+
+</div>
+
+
+
+
         </div> <!-- home-repos -->
 
 
-                       <div id="home-blog" class="container">
+                <div id="home-blog" class="container">
             <header class="section-header">
                 <a href="" class="pull-right">visit blog</a>
                 <h2 class="section-title lite">DevOps Blog</h2>
@@ -853,6 +1018,40 @@ for a guest.</p>
             </div><!-- row -->
     
         </div><!-- container --> 
+                <div id="home-services" class="container">
+                    <header class="section-header">
+                        <h3>Cloud Services -  <small class="lead">Rackspace Offers services to help make your cloud experience easier.</small></h3>
+
+                    </header>
+
+                    <table class="table services-table">
+                    	<tbody>
+                    		<tr>
+                    			<td class="span4 logo"><img src="/static/img/logos/mailgun.jpg"></td>
+                    			<td class="description">
+                    				<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Incidunt, velit iure esse sunt labore iusto obcaecati voluptates numquam tenetur ea praesentium expedita enim ipsam nesciunt quos voluptatem in nam perferendis.</p>
+                    				<p class="meta"><a href="#">Visit Site</a> | <a href="#">Integration Guide</a> | <a href="#">Code Samples</a></p>
+                    			</td>                   		</tr>
+                    		<tr>
+                    			<td class="span4 logo"><img src="/static/img/logos/object-rocket.jpg"></td>
+                    			<td class="description">
+                    				<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Incidunt, velit iure esse sunt labore iusto obcaecati voluptates numquam tenetur ea praesentium expedita enim ipsam nesciunt quos voluptatem in nam perferendis.</p>
+                    				<p class="meta"><a href="#">Visit Site</a> | <a href="#">Integration Guide</a> | <a href="#">Code Samples</a></p>
+
+                    			</td>                   		
+                    		</tr>
+                    		<tr>
+                    			<td class="span4 logo"><img data-src="holder.js/300x100"></td>
+                    			<td class="description">
+                    				<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Incidunt, velit iure esse sunt labore iusto obcaecati voluptates numquam tenetur ea praesentium expedita enim ipsam nesciunt quos voluptatem in nam perferendis.</p>
+                    				<p class="meta"><a href="#">Visit Site</a> | <a href="#">Integration Guide</a> | <a href="#">Code Samples</a></p>
+                    			</td>
+                    		</tr>
+                    	</tbody>
+                    </table>
+
+		</div>
+ 
 
   
     </div><!-- page -->

@@ -1,5 +1,5 @@
 <?php
-$files = array('/index', '/blog/index', '/blog/single', '/coming-soon');
+$files = array('/index', '/blog/index', '/blog/single', '/coming-soon', 'openstack');
 
 foreach($files as $file) {
 	$ch = curl_init($_SERVER['HTTP_HOST'].$file.'.php');
