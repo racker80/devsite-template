@@ -9,7 +9,17 @@
                                                     <br>
                                                     The official The Rackspace Cloud SDK for Java
                                                 </dd>
+                                                <dd>Webiste - <a href="http://www.jclouds.org/">jclouds.org</a></dd>
                                                 
+                                            </dl>
+
+                                            <dl>
+                                                <dt>Community Links</dt>
+                                                <dd>
+                                                    <a href="https://groups.google.com/forum/?fromgroups#!forum/jclouds">jClouds on google groups</a>
+                                                </dd>
+
+                                                <dd><a href="https://twitter.com/jclouds">@jcoulds</a></dd>                                                
                                             </dl>
                                             
                                         </div>

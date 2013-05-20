@@ -15,6 +15,13 @@
                                                 </dd>
                                                 
                                             </dl>
+                                            <dl>
+                                                <dt>Community Links</dt>
+                                                <dd>
+                                                    <a href="https://twitter.com/fog">@fog</a>
+                                                </dd>
+                                                
+                                            </dl>
                                             
                                         </div>
                                         <div class="span4">
