@@ -48,9 +48,9 @@
                 <a href="irc://irc.freenode.net/rackspace">#rackspace</a>
              </dd>
              <dd>
-                <a href="irc://irc.freenode.net/openstack">openstack</a>
+                <a href="irc://irc.freenode.net/openstack">#openstack</a>
              </dd>
-
+             <br/>
             <dt>Twitter</dt>
             <dd>
                 <a href="https://twitter.com/rackspace">@rackspace</a>
