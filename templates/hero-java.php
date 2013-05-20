@@ -28,6 +28,23 @@
                                             <dl>
                                                 <dt>Community Links</dt>
                                                 <dd>
+                                                    <strong>Twitter:</strong> <a href="https://twitter.com/jclouds">@jclouds</a>
+                                                </dd>
+                                                <dd>
+                                                    <strong>IRC:</strong> <a href="irc://irc.freenode.net/ruby-fog">#ruby-fog</a> on irc.freenode.net
+                                                </dd>
+                                                <dd>
+                                                    <strong>Mailing List:</strong> <a href="http://groups.google.com/group/ruby-fog">ruby-fog</a>
+                                                </dt>
+                                                <dd>
+                                                    <strong>Report Issues:</strong> <a href="https://github.com/fog/fog/issues">Github</a>
+                                                </dt>
+
+                                            </dl>
+
+                                            <dl>
+                                                <dt>Community Links</dt>
+                                                <dd>
                                                     <a href="https://groups.google.com/forum/?fromgroups#!forum/jclouds">jClouds on google groups</a>
                                                 </dd>
 

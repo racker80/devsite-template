@@ -1,4 +1,4 @@
-                            <div class="tab-pane" id="hero-ruby">
+                            <div class="tab-pane" id="hero-nodejs">
                                 <div class="language-overview well">
                                     <div class="row-fluid">
                                         <div class="span4">

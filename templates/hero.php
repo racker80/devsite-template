@@ -13,6 +13,7 @@
                             <li><a href="#hero-java" data-toggle="tab">Java</a></li>
                             <li><a href="#hero-python" data-toggle="tab">Python</a></li>
                             <li><a href="#hero-net" data-toggle="tab">.Net</a></li>
+                            <li><a href="#hero-nodejs" data-toggle="tab">Node.js</a></li>
                         </ul>
 
                         <div class="tab-content">
