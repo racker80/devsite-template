@@ -1,5 +1,13 @@
                             <div class="tab-pane" id="hero-python">
                                 <div class="language-overview well">
+                                    <table class="language-intro-table table">
+                                        <tbody>
+                                            <tr>
+                                                <td class="logo"><img src="/static/img/logos/486px-Python_logo.png" alt=""></td>
+                                                <td class="text12">Python is a programming language that lets you work more quickly and integrate your systems more effectively. You can learn to use Python and see almost immediate gains in productivity and lower maintenance costs.</td>
+                                            </tr>
+                                        </tbody>
+                                    </table>
                                     <div class="row-fluid">
                                         <div class="span4">
                                             <dl>
@@ -12,9 +20,9 @@
               not work with other versions at <a class="link" href="https://github.com/rackspace/pyrax/issues" target="_top">https://github.com/rackspace/pyrax/issues</a> or
               email <a class="link" href="mailto:sdk-support@rackspace.com" target="_top">sdk-support@rackspace.com</a>.
                                                 </dd>
-                                                
+
                                             </dl>
-                                            
+
                                         </div>
                                         <div class="span4">
                                             <dl>
@@ -38,7 +46,7 @@
                                                     accomplish common tasks.
                                                 </dd>
                                             </dl>
-                                            
+
                                         </div>
                                         <div class="span4">
                                             <dl>
@@ -46,9 +54,9 @@
                                                 <dd>
                                                     <a class="link" href="https://github.com/rackspace/pyrax/blob/master/docs/pyrax_doc.md" target="_top">Getting Started with pyrax</a>                                                </dd>
                                             </dl>
-                                            
+
                                         </div>
                                     </div><!-- row -->
-                                
-                                </div><!-- well -->   
+
+                                </div><!-- well -->
                             </div>
