@@ -1,17 +1,17 @@
                             <div class="tab-pane active" id="hero-openstack">
-                        
+
                                 <div class="language-overview well">
                                     <table class="language-intro-table table">
                                         <tbody>
                                             <tr>
                                                 <td class="logo"><img src="/static/img/logos/open-stack.png" alt=""></td>
-                                                <td class="text12">OpenStack allows any company or organization to build a cloud... anywhere.  It's open source, Free, and supported by Rackspace.  
+                                                <td class="text12">OpenStack allows any company or organization to build a cloud... anywhere.  It's open source, Free, and supported by Rackspace.
                                                 </td>
                                             </tr>
                                         </tbody>
                                     </table>
-                                    
-                                    
+
+
                                     <div class="row-fluid">
                                         <div class="span4">
                                             <dl>
@@ -22,7 +22,22 @@
                                                 </dd>
 
                                             </dl>
-                                            
+                                            <dl>
+                                                <dt>Community Links</dt>
+                                                <dd>
+                                                    <strong>Twitter:</strong> <a href="https://twitter.com/openstack">@openstack</a>
+                                                </dd>
+                                                <dd>
+                                                    <strong>IRC:</strong> <a href="irc://irc.freenode.net/openstack">#openstack</a> on irc.freenode.net
+                                                </dd>
+                                                <dd>
+                                                    <strong>Got Questions</strong> <a href="https://ask.openstack.org/questions/">Ask OpenStack!</a>
+                                                </dt>
+                                                <dd>
+                                                    <strong>Report Issues:</strong> <a href="https://wiki.openstack.org/wiki/HowToContribute#If_you.27re_a_tester_.28and_breaker.29.2C_get_started_this_way:">How To Contribute</a>
+                                                </dt>
+
+                                            </dl>
                                         </div>
                                         <div class="span4">
                                             <dl>
@@ -43,7 +58,7 @@
                                                     <a href="http://docs.openstack.org/">All Docs</a> - The official OpenStack doc page.
                                                 </dd>
                                             </dl>
-                                            
+
                                         </div>
 
                                         <div class="span4">
@@ -56,10 +71,10 @@
                                                 </dd>
                                             </dl>
                                         </div>
-                                        
-                                    </div><!-- row -->
-                                
-                                </div><!-- well -->                        
 
-                            
+                                    </div><!-- row -->
+
+                                </div><!-- well -->
+
+
                             </div><!-- pane -->
