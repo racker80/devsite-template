@@ -1,3 +1,5 @@
+
+
 $(document).ready(function() {
 
 
@@ -24,12 +26,50 @@ $(document).ready(function() {
                     });
 
 
-$('.select-tabs').change(function (e) {
-    e.preventDefault();
-        alert($(this).attr('href'));
+// load FeedMagnet SDK
+var fm_server = 'testdrive.feedmagnet.com'
+;(function() {
+    window.fm_ready = function(fx) {
+        if (typeof $FM !== 'undefined' && typeof $FM.ready === 'function') {
+            $FM.ready(fx);
+        } else {
+            window.setTimeout(function() { fm_ready.call(null, fx); }, 50);
+        }
+    };
+    var fmjs = document.createElement('script');
+    var p = ('https:' === document.location.protocol ? 'https://' : 'http://');
+    fmjs.src = p + fm_server + '/embed.js';
+    fmjs.setAttribute('async', 'true');
+    //document.documentElement.firstChild.appendChild(fmjs);
+        document.getElementsByTagName('body')[0].appendChild(fmjs);
 
-    $(this).tab('show');
-});
+})();
+ 
+// do stuff once it is loaded
+fm_ready(function($, _) {
+    // create the feed object and get content
+        var feed = $FM.Feed('rackspace').get({
+            'limit':10
+        })
+ 
+        // process JSON data for each update into HTML
+        feed.connect('new_update', function(self, data) {
+            var udata = data.update.data
+            data.update.html =
+                '<img class="avatar" ' +
+                    'src="' + udata.author.avatar + '" />' +
+                '<div class="author">' + udata.author.alias + '</div>' +
+                '<div class="timestamp">' +
+                    _(udata.timestamp).pretty_time() +
+                '</div>' +
+                '<div class="text">' + udata.text + '</div>'
+        })
+ 
+        // display the feed on the page
+        var output = $FM.Element('#social-feed').display(feed)
+})
+
+
 
 
 

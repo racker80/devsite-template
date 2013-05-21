@@ -7,6 +7,7 @@
 
         <?php include('templates/home-repos.php'); ?>
         <?php include('templates/home-blog.php'); ?> 
+        <?php include('templates/home-social.php'); ?> 
         <?php include('templates/home-services.php'); ?> 
 
   
