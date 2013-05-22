@@ -14,7 +14,7 @@
                                     <div class="row-fluid">
                                         <div class="span4">
                                             <dl>
-                                                <dt>Node.js Supported SDKs</dt>
+                                                <dt>Rackspace Supported SDKs</dt>
                                                 <dd>
                                                     <a href="https://github.com/nodejitsu/pkgcloud">Node.js SDK - pkgcloud</a>
                                                     <br>

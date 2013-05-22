@@ -16,7 +16,7 @@
                                     <div class="row-fluid">
                                         <div class="span4">
                                             <dl>
-                                                <dt>.Net Supported SDKs</dt>
+                                                <dt>Rackspace Supported SDKs</dt>
                                                 <dd>
                                                     <a href="https://github.com/rackspace/openstack.net/zipball/master">Openstack.net</a>
                                                     <br>

@@ -11,15 +11,31 @@
                                     <div class="row-fluid">
                                         <div class="span4">
                                             <dl>
-                                                <dt>PHP Supported SDKs</dt>
+                                                <dt>Rackspace Supported SDKs</dt>
                                                 <dd>
-                                                    <a href="https://github.com/rackspace/php-opencloud">PHP OpenCloud</a>
-                                                    <br>
-                                                    The official Rackspace SDK for php.
+                                                    <a href="http://php-opencloud.com/">PHP OpenCloud Website</a>
+                                                </dd>
+                                                <dd>
+                                                    <a href="https://github.com/rackspace/php-opencloud">PHP OpenCloud on GitHub</a>
                                                 </dd>
 
                                             </dl>
+                                            <dl>
+                                                <dt>Community Links</dt>
+                                                <dd>
+                                                    <strong>Twitter:</strong> <a href="https://twitter.com/openstack">@openstack</a>
+                                                </dd>
+                                                <dd>
+                                                    <strong>IRC:</strong> <a href="irc://irc.freenode.net/openstack">#openstack</a> on irc.freenode.net
+                                                </dd>
+                                                <dd>
+                                                    <strong>Got Questions</strong> <a href="https://ask.openstack.org/questions/">Ask OpenStack!</a>
+                                                </dt>
+                                                <dd>
+                                                    <strong>Report Issues:</strong> <a href="https://wiki.openstack.org/wiki/HowToContribute#If_you.27re_a_tester_.28and_breaker.29.2C_get_started_this_way:">How To Contribute</a>
+                                                </dt>
 
+                                            </dl>
                                         </div>
                                         <div class="span4">
                                             <dl>

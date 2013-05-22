@@ -12,7 +12,7 @@
                                     <div class="row-fluid">
                                         <div class="span4">
                                             <dl>
-                                                <dt>Java Supported SDKs</dt>
+                                                <dt>Rackspace Supported SDKs</dt>
                                                 <dd>
                                                     <a href="http://www.oracle.com/technetwork/java/javase/downloads/index.html">Java Development Kit (JDK) version 6 or later</a>
                                                     <br>

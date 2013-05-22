@@ -11,7 +11,7 @@
                                     <div class="row-fluid">
                                         <div class="span4">
                                             <dl>
-                                                <dt>Ruby Supported SDKs</dt>
+                                                <dt>Rackspace Supported SDKs</dt>
                                                 <dd>
                                                     <a href="https://github.com/fog/fog">Ruby SDK - Fog</a>
                                                     <br>
