@@ -30,12 +30,12 @@
                     <dl>
                         <dt>Docs and Resources</dt>
                         <dd>
-                            <a class="link" href="#" target="_top">API Reference Manual</a> – detailed
-                            documentation for the classes and methods.
-                        </dd>
-                        <dd>
                             <a class="link" href="#" target="_top">SDK Quick Reference</a> – several quick
                             reference guides for the services available.
+                        </dd>
+                        <dd>
+                            <a class="link" href="#" target="_top">API Reference Manual</a> – detailed
+                            documentation for the classes and methods.
                         </dd>
                         <dd>
                             <a class="link" href="https://github.com/nodejitsu/pkgcloud/blob/master/CHANGELOG.md" target="_top">Release Notes</a> – release notes for software

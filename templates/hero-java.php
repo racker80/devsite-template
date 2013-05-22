@@ -43,7 +43,8 @@
                     <dl>
                         <dt>Docs and Resources</dt>
                         <dd>
-                            <a class="link" href="http://www.jclouds.org/documentation/quickstart/rackspace/" target="_top">Getting Started</a> - Getting Started Guide.
+                            <a class="link" href="http://www.jclouds.org/documentation/quickstart/rackspace/" target="_top">SDK Quick Reference</a> – quick
+                            reference information for the services available.
                         </dd>
                         <dd>
                             <a class="link" href="http://javadocs.jclouds.cloudbees.net/" target="_top">API Reference Manual</a> – detailed API documentation.
