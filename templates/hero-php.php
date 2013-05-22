@@ -60,7 +60,7 @@
                                         </div>
                                         <div class="span4">
                                             <dl>
-                                                <dt>Php-opencloud Cookbooks</dt>
+                                                <dt>Cookbooks</dt>
                                                 <dd>
                                                     <a class="link" href="https://github.com/rackspace/php-opencloud/blob/master/docs/userguide/index.md" target="_top">Getting Started with php-opencloud</a>
                                                 </dd>
