@@ -18,9 +18,6 @@
                         <dd>
                             <a href="https://pypi.python.org/pypi/pyrax/">Pyrax on PyPI</a>
                         </dd>
-                        <dd>
-                            <a class="link" href="http://docs.rackspace.com/sdks/guide/content/python.html" target="_top">SDK Documentation</a> by Rackspace.
-                        </dd>
                     </dl>
                     <dl>
                         <dt>Community Links</dt>
@@ -38,6 +35,9 @@
                 <div class="span4">
                     <dl>
                         <dt>Docs and Resources</dt>
+                        <dd>
+                            <a class="link" href="http://docs.rackspace.com/sdks/guide/content/python.html" target="_top">SDK Documentation</a> by Rackspace.
+                        </dd>
                         <dd>
                             <a class="link" href="https://github.com/rackspace/pyrax/tree/master/docs" target="_top">SDK Quick Reference</a> – quick reference information for the services available.
                         </dd>
