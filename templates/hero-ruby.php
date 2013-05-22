@@ -49,7 +49,6 @@
                                                 </dd>
                                                 <dd>
                                                     <a class="link" href="https://github.com/fog/fog/blob/master/changelog.txt" target="_top">SDK Release Notes</a> - track changes between releases.
-                                                    versions.
                                                 </dd>
                                                 <dd>
                                                     <a class="link" href="https://github.com/fog/fog/tree/master/lib/fog/rackspace/examples" target="_top">Examples</a> – code examples demonstrating how to

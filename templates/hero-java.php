@@ -50,7 +50,6 @@
                                                 </dd>
                                                 <dd>
                                                     <a class="link" href="http://www.jclouds.org/documentation/releasenotes/" target="_top">SDK Release Notes</a> - track changes between releases.
-                                                    versions.
                                                 </dd>
                                             </dl>
 
