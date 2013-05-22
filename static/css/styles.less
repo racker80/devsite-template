@@ -282,6 +282,9 @@ HOMEPAGE
 
 .section-header {
     margin-bottom:10px;
+    .section-title {
+        .narrow;
+    }
 }
 
 .section-container {
@@ -500,26 +503,31 @@ REPOS
             }
             &.active {
                 a {
-                    .buttonBackground(@btnSuccessBackground, @btnSuccessBackgroundHighlight);
+                    .buttonBackground(#d2d2d2, #999);
                 }
             }
         }
 }
 
 #home-repos {
-
+    > .tab-content {
+    }
     .tabbable {
         float:none!important;
         .nav {
         margin:0;
         padding:0;
         float:none;
-        li {
-            a {
-                text-decoration:none;
-                font-size:14px;
+            li {
+                a {
+                    text-decoration:none;
+                    font-size:14px;
+                }
             }
         }
+        > .tab-content {
+            border:1px solid #d2d2d2;
+            padding:0 20px;
         }
 
     }
@@ -551,7 +559,7 @@ REPOS
     .repolist {
         position:relative;
         .clearfix;
-        margin-bottom:60px;
+        margin-bottom:20px;
         li {
             position:relative;
             z-index:100;
@@ -559,6 +567,9 @@ REPOS
             padding-bottom:30px;
             margin:0 0 0px 0;
             border-bottom:1px solid #eaeaea;
+            &:last-child {
+                border-bottom:0;
+            }
             >div {
                 position:relative;
                 z-index:101;
@@ -679,13 +690,55 @@ SERVICES
             }
         }
     }
+    .description {
+        .logo {
+            &.right {
+                float:right;
+                margin:0 0 20px 40px;
+            }
+        }
+    }
 }
 
 
 /************************************
 BLOG
 ************************************/
-
+#home-blog {
+    border:3px solid @rackRed;
+    border-width:3px 0;
+    padding:30px 0;
+    position:relative;
+    .section-header {
+        position:absolute;
+        top:5px;
+        right:0;
+        width:100%;
+        display:none;
+        a {
+        }
+        h1 {
+           font-size:15px;
+           margin:0;
+            padding:0;
+            line-height:1em;
+            text-align:right;
+            a {
+                position:static;
+                float:none; 
+                .caps;
+                 font-size:15px;
+                 color:@rackRed;
+                 text-decoration:none;
+                 .narrow;
+            }
+        }
+    }
+    .blog-article {
+        margin-bottom:0;
+        padding-bottom:0;
+    }
+}
 .sidebar {
     section {
         padding:20px 0;

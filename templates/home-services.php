@@ -2,18 +2,18 @@
 
           <div id="home-services" class="container section-container">
                <header class="section-header">
-                    <h2 class="section-title lite">Get Started With Cloud Services</h2>
+                    <h1 class="section-title">Get Started With Cloud Services</h1>
                </header>
 
                <div class="tabbable tabs-left">
                     <ul class="nav nav-tabs">
                          <li class="active"><a href="#services-rackspace" data-toggle="tab">Rackspace Core Cloud</a></li>
-                         <li><a href="#2" data-toggle="tab">Mailgun</a></li>
-                         <li><a href="#3" data-toggle="tab">Object Rocket</a></li>
+                         <li><a href="#services-mailgun" data-toggle="tab">Mailgun</a></li>
+                         <li><a href="#services-objectrocket" data-toggle="tab">Object Rocket</a></li>
                     </ul>
                     <div id="services-content" class="tab-content">
                          <div class="tab-pane active" id="services-rackspace">
-                              <h2 class="narrow">Rackspace Cloud Services</h2>
+                              <h2 class="lite">Rackspace Cloud Services</h2>
                               <p class="lead">Lorem ipsum dolor sit quod unde quas et accusantium. Totam, veritatis.</p>
                              <div class="row-fluid">
                                   <div class="span6">
@@ -136,17 +136,27 @@
                                   </div>
                              </div><!-- row -->                        
                          </div>
-                         <div class="tab-pane" id="2">
-                              <div class="logo"><img src="/static/img/logos/mailgun.jpg"></div>
-                              <h4 class="lite"><span class="narrow">Mailgun</span> - Simple Mail integration for the cloud</h4>
-                              <p class="meta"><a href="#">Visit Site</a> | <a href="#">Integration Guide</a> | <a href="#">Code Samples</a></p>
+                         <div class="tab-pane" id="services-mailgun">
+                            <div class="description">
+                              <div class="logo right">
+                                <img src="/static/img/logos/mailgun.jpg">
+
+                              </div>
+                              <h2 class="lite">Simple Mail integration for the cloud</h2>
+                              <p class="lead">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Deserunt, commodi, unde, rem rerum eum nobis nulla modi officia odit ipsum dolor praesentium minus sit recusandae veritatis sed cumque laboriosam itaque!</p>
+                              <p class="meta"><a href="#">Visit Site</a> | <a href="#">Integration Guide</a> | <a href="#">Code Samples</a></p>                              
+
+                            </div>
+
 
                          </div>
-                         <div class="tab-pane" id="3">
-                              <div class="logo"><img src="/static/img/logos/object-rocket.jpg"></div>
-                              <h4 class="lite"><span class="narrow">Object Rocket</span> - Cloud based MongoDB as a service</h4>
-                              <p class="meta"><a href="#">Visit Site</a> | <a href="#">Integration Guide</a> | <a href="#">Code Samples</a></p>
-
+                         <div class="tab-pane" id="services-objectrocket">
+                            <div class="description">
+                              <div class="logo right"><img src="/static/img/logos/object-rocket.jpg"></div>
+                              <h2 class="lite">Cloud based MongoDB as a service</h2>
+                              <p class="lead">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Deserunt, commodi, unde, rem rerum eum nobis nulla modi officia odit ipsum dolor praesentium minus sit recusandae veritatis sed cumque laboriosam itaque!</p>
+                              <p class="meta"><a href="#">Visit Site</a> | <a href="#">Integration Guide</a> | <a href="#">Code Samples</a></p>                              
+                            </div>                          
                          </div>
                     </div><!--tab-content-->
                </div><!-- tabbable -->

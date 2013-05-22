@@ -1,6 +1,6 @@
                         <div class="tab-pane " id="home-repos-rackspace">
 
-                        	<h3 class="narrow">Rackspace Projects</h3>
+                        	<h2 class="lite">Rackspace Projects</h2>
 
 							    <ul class="repolist js-repo-list">
 							        <li class="row-fluid" data-user="rackspace" data-repo="jclouds">

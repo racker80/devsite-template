@@ -2,8 +2,7 @@
 
         <div class="container section-container">
             <header class="section-header">
-                <h2 class="section-title lite">On the web</h2>
+                <h1 class="section-title lite">On the web</h1>
             </header>
             <div id="social-feed" class="widget clearfix"></div>
-            <br>
         </div>

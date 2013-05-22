@@ -1,4 +1,4 @@
                         <div class="tab-pane " id="home-repos-other">
-                        	<h3 class="narrow">Other Projects</h3>
+                        	<h2 class="lite">Other Projects</h2>
 
                         </div>

@@ -2,7 +2,7 @@
             <div class="row">
                 <div class="span8">
                     <header class="section-header">
-                        <h2 class="section-title lite">Don't get locked in.</h2>
+                        <h1 class="section-title lite">Don't get locked in.</h1>
                         <h3>Open<span class="red">Stack</span> allows you to choose your cloud provider or build your own cloud.</h3>
                     </header>
                     <div class="row-fluid">

@@ -1,5 +1,5 @@
 <div class="tab-pane active" id="home-repos-featured">
-    <h3 class="narrow">Featured Projects</h3>
+    <h2 class="lite">Featured Projects</h2>
     <ul class="repolist js-repo-list">
         <li class="row-fluid" data-user="rackerlabs" data-repo="repose">
                 <div class="repo-image span1">

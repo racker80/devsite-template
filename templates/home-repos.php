@@ -1,6 +1,6 @@
         <div id="home-repos" class="container section-container">
             <header class="section-header">
-                <h2 class="section-title lite">Community Projects and Open Source</h2>
+                <h1 class="section-title lite">Community Projects and Open Source</h1>
             </header>
 
 

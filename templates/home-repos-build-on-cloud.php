@@ -4,6 +4,7 @@
 
                     <div class="span2">
                         
+                        <?php /*
                         <div class="tabbable tabs-left hidden">
                             <ul class="nav nav-tabs">
                                 <li class="active"><a href="#home-repos-featured" data-toggle="tab">Featured</a></li>
@@ -11,7 +12,9 @@
                             </ul>
 
                         </div><!-- tabbable -->
-                      
+                        */?>
+
+
                         <div id="community-sidebar">
                             <h4>Community Links</h4>
                             <dl class="dl-list">
@@ -42,7 +45,7 @@
                         <div class="tab-content">
 
                             <?php include('home-repos-featured.php'); ?>
-                            <?php include('home-repos-rackspace.php'); ?>
+                            <?php //include('home-repos-rackspace.php'); ?>
                         </div>
                    </div><!-- span 10 -->
 
