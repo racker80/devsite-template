@@ -14,15 +14,14 @@
                 <ul class="nav nav-pills">
                     <li><a href="/openstack.php">Get Started</a></li>
                     <li class="dropdown">
-                        <a href="#" class="dropdown-toggle" data-toggle="dropdown">SDKs & Tools <b class="caret"></b></a>
-                        <ul id="lang-nav" class="dropdown-menu">
-                            <li><a id="openstack-nav" href="#hero-openstack">OpenStack</a></li>
-                            <li><a id="java-nav" href="#hero-java">Java</a></li>
-                            <li><a id="dotnet-nav" href="#hero-net">.Net</a></li>
-                            <li><a id="nodejs-nav" href="#hero-nodejs">Node.js</a></li>
-                            <li><a id="php-nav" href="#hero-php">PHP</a></li>
-                            <li><a id="python-nav" href="#hero-python">Python</a></li>
-                            <li><a id="ruby-nav" href="#hero-ruby">Ruby</a></li>
+                        <a href="#" class="dropdown-toggle" data-toggle="dropdown">SDKs & Docs <b class="caret"></b></a>
+                        <ul class="dropdown-menu">
+                            <li><a href="http://docs.rackspace.com/sdks/guide/content/python.html" target="_blank">Python</a></li>
+                            <li><a href="http://docs.rackspace.com/sdks/guide/content/ruby.html" target="_blank">Ruby</a></li>
+                            <li><a href="http://docs.rackspace.com/sdks/api/php/" target="_blank">PHP</a></li>
+                            <li><a href="http://docs.rackspace.com/sdks/guide/content/java.html" target="_blank">Java</a></li>
+                            <li><a href="http://openstacknetsdk.org/docs/" target="_blank">.Net</a></li>
+                            
                         </ul>
                         <li class="dropdown"><a href="#" class="dropdown-toggle" data-toggle="dropdown">Open Stack <b class="caret"></b></a>
                             <ul class="dropdown-menu">
@@ -34,7 +33,7 @@
                             </ul>
                         </li>
                         <li><a href="/blog/">DevOps Blog</a></li>
-                    </ul>
+                    </ul>                
             </div><!-- /.nav-collapse -->
         </div>
     </div><!-- /navbar-inner -->

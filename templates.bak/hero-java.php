@@ -4,7 +4,7 @@
                 <tbody>
                     <tr>
                         <td class="logo"><img src="/static/img/logos/java.gif" alt=""></td>
-                        <td class="text12">Java is a general-purpose, concurrent, statically-typed, object-oriented computer programming language that is specifically designed to have as few implementation dependencies as possible.</td>
+                        <td class="text12">Java is a programming language and computing platform first released by Sun Microsystems in 1995.</td>
                     </tr>
                 </tbody>
             </table>
@@ -18,6 +18,9 @@
                         </dd>
                         <dd>
                             <a href="http://incubator.apache.org/projects/jclouds.html">jclouds on the Apache Software Foundation</a>
+                        </dd>
+                        <dd>
+                            <a class="link" href="http://docs.rackspace.com/sdks/guide/content/java.html" target="_top">SDK Documentation</a> by Rackspace.
                         </dd>
                     </dl>
 
@@ -41,9 +44,6 @@
                 <div class="span4">
                     <dl>
                         <dt>Docs and Resources</dt>
-                        <dd>
-                            <a class="link" href="http://docs.rackspace.com/sdks/guide/content/java.html" target="_top">SDK Documentation</a> by Rackspace.
-                        </dd>
                         <dd>
                             <a class="link" href="http://www.jclouds.org/documentation/quickstart/rackspace/" target="_top">SDK Quick Reference</a> – quick
                             reference information for the services available.
