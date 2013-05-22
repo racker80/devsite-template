@@ -16,13 +16,13 @@
                     <li class="dropdown">
                         <a href="#" class="dropdown-toggle" data-toggle="dropdown">SDKs & Tools <b class="caret"></b></a>
                         <ul class="dropdown-menu">
-                            <li><a href="#hero-openstack">OpenStack</a></li>
-                            <li><a href="#hero-java">Java</a></li>
-                            <li><a href="#hero-net">.Net</a></li>
-                            <li><a href="#hero-nodejs">Node.js</a></li>
-                            <li><a href="#hero-php">PHP</a></li>
-                            <li><a href="#hero-python">Python</a></li>
-                            <li><a href="#hero-ruby">Ruby</a></li>
+                            <li><a href="#hero-openstack" data-toggle="tab">OpenStack</a></li>
+                            <li><a href="#hero-java" data-toggle="tab">Java</a></li>
+                            <li><a href="#hero-net" data-toggle="tab">.Net</a></li>
+                            <li><a href="#hero-nodejs" data-toggle="tab">Node.js</a></li>
+                            <li><a href="#hero-php" data-toggle="tab">PHP</a></li>
+                            <li><a href="#hero-python" data-toggle="tab">Python</a></li>
+                            <li><a href="#hero-ruby" data-toggle="tab">Ruby</a></li>
                         </ul>
                         <li class="dropdown"><a href="#" class="dropdown-toggle" data-toggle="dropdown">Open Stack <b class="caret"></b></a>
                             <ul class="dropdown-menu">
