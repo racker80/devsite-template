@@ -44,7 +44,7 @@
                     <dl>
                         <dt>Docs and Resources</dt>
                         <dd>
-                            <a class="link" href="https://github.com/rackspace/openstack.net/wiki/Getting-Started" target="_top">Getting Started</a> – quick
+                            <a class="link" href="https://github.com/rackspace/openstack.net/wiki/Getting-Started" target="_top">SDK Quick Reference</a> – quick
                             reference information for the services available.
                         </dd>
                         <dd>
