@@ -39,11 +39,10 @@
                                                     <a class="link" href="https://github.com/rackspace/pyrax/tree/master/docs" target="_top">Pyrax Quick Reference</a> – quick reference information for the services available.
                                                 </dd>
                                                 <dd>
-                                                    <a class="link" href="http://docs.rackspace.com/sdks/api/python/" target="_top">API Reference Manual</a>
+                                                    <a class="link" href="http://docs.rackspace.com/sdks/api/python/" target="_top">API Reference Manual</a> - detailed API documentation.
                                                 </dd>
                                                 <dd>
-                                                    <a class="link" href="https://github.com/rackspace/pyrax/blob/master/RELEASENOTES.md" target="_top">Release Notes</a> – release notes for software
-                                                    versions.
+                                                    <a class="link" href="https://github.com/rackspace/pyrax/blob/master/RELEASENOTES.md" target="_top">Release Notes</a>.
                                                 </dd>
                                                 <dd>
                                                     <a class="link" href="https://github.com/rackspace/pyrax/tree/master/samples" target="_top">Samples</a> – code samples demonstrating how to

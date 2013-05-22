@@ -49,7 +49,7 @@
                                                     <a class="link" href="http://javadocs.jclouds.cloudbees.net/" target="_top">API Reference Manual</a> – detailed API documentation.
                                                 </dd>
                                                 <dd>
-                                                    <a class="link" href="http://www.jclouds.org/documentation/releasenotes/" target="_top">Release Notes</a> – release notes for software
+                                                    <a class="link" href="http://www.jclouds.org/documentation/releasenotes/" target="_top">Release Notes</a>.
                                                     versions.
                                                 </dd>
                                             </dl>
