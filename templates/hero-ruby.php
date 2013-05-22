@@ -39,16 +39,16 @@
                                         </div>
                                         <div class="span4">
                                             <dl>
-                                                <dt>Ruby Docs and Resources</dt>
+                                                <dt>Docs and Resources</dt>
                                                 <dd>
-                                                    <a class="link" href="https://github.com/fog/fog/tree/master/lib/fog/rackspace/docs" target="_top">Ruby SDK Quick Reference</a> – several quick
-                                                    reference guides for the services available.
+                                                    <a class="link" href="https://github.com/fog/fog/tree/master/lib/fog/rackspace/docs" target="_top">SDK Quick Reference</a> – quick
+                                                    reference information for the services available.
                                                 </dd>
                                                 <dd>
                                                     <a class="link" href="http://rubydoc.info/gems/fog/" target="_top">API Reference Manual</a> – detailed API documentation.
                                                 </dd>
                                                 <dd>
-                                                    <a class="link" href="https://github.com/fog/fog/blob/master/changelog.txt" target="_top">Release Notes</a> – release notes for software
+                                                    <a class="link" href="https://github.com/fog/fog/blob/master/changelog.txt" target="_top">Release Notes</a>.
                                                     versions.
                                                 </dd>
                                                 <dd>
@@ -60,7 +60,7 @@
                                         </div>
                                         <div class="span4">
                                             <dl>
-                                                <dt>Ruby Cookbooks</dt>
+                                                <dt>Cookbooks</dt>
                                                 <dd>
                                                     <a class="link" href="https://github.com/fog/fog/blob/master/lib/fog/rackspace/docs/getting_started.md" target="_top">Getting Started with Fog and the Rackspace Cloud</a>
                                                 </dd>

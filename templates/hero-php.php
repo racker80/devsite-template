@@ -26,7 +26,7 @@
                                                     <strong>IRC:</strong> <a href="irc://irc.freenode.net/rackspace">#rackspace</a> on irc.freenode.net
                                                 </dd>
                                                 <dd>
-                                                    <strong>Got Questions</strong> <a href="mailto:sdk-support@rackspace.com">sdk-support@rackspace.com</a>
+                                                    <strong>Got Questions:</strong> <a href="mailto:sdk-support@rackspace.com">sdk-support@rackspace.com</a>
                                                 </dt>
                                                 <dd>
                                                     <strong>Report Issues:</strong> <a href="https://github.com/rackspace/php-opencloud/issues">GitHub</a>
@@ -39,17 +39,16 @@
                                         </div>
                                         <div class="span4">
                                             <dl>
-                                                <dt>PHP Docs and Resources</dt>
+                                                <dt>Docs and Resources</dt>
                                                 <dd>
-                                                    <a class="link" href="https://github.com/rackspace/php-opencloud/blob/master/docs/quickref.md" target="_top">php-opencloud Quick Reference</a> – quick
+                                                    <a class="link" href="https://github.com/rackspace/php-opencloud/blob/master/docs/quickref.md" target="_top">SDK Quick Reference</a> – quick
                                                     reference information for the services available.
                                                 </dd>
                                                 <dd>
                                                     <a class="link" href="http://docs.rackspace.com/sdks/api/php/" target="_top">API Reference Manual</a> – detailed API documentation.
                                                 </dd>
                                                 <dd>
-                                                    <a class="link" href="https://github.com/rackspace/php-opencloud/blob/master/RELEASENOTES.md" target="_top">Release Notes</a> – release notes for software
-                                                    versions.
+                                                    <a class="link" href="https://github.com/rackspace/php-opencloud/blob/master/RELEASENOTES.md" target="_top">Release Notes</a>.
                                                 </dd>
                                                 <dd>
                                                     <a class="link" href="https://github.com/rackspace/php-opencloud/tree/master/samples" target="_top">Samples</a> – code samples
@@ -60,7 +59,7 @@
                                         </div>
                                         <div class="span4">
                                             <dl>
-                                                <dt>PHP Cookbooks</dt>
+                                                <dt>Cookbooks</dt>
                                                 <dd>
                                                     <a class="link" href="https://github.com/rackspace/php-opencloud/blob/master/docs/userguide/index.md" target="_top">Getting Started with php-opencloud</a>
                                                 </dd>
