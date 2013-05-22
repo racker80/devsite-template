@@ -51,7 +51,7 @@
                                                     <a class="link" href="https://github.com/rackspace/php-opencloud/blob/master/RELEASENOTES.md" target="_top">SDK Release Notes</a> - track changes between releases.
                                                 </dd>
                                                 <dd>
-                                                    <a class="link" href="https://github.com/rackspace/php-opencloud/tree/master/samples" target="_top">Samples</a> – code samples
+                                                    <a class="link" href="https://github.com/rackspace/php-opencloud/tree/master/samples" target="_top">Examples</a> – code samples
                                                     demonstrating how to accomplish common tasks.
                                                 </dd>
                                             </dl>
