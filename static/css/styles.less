@@ -89,6 +89,24 @@ dl.dl-list {
 }
 
 
+.tabbable {
+    .nav.nav-tabs {
+        li {
+            a {
+                text-decoration:none;
+                padding:10px 20px;
+                                            font-weight:800;
+
+            }
+            &.active {
+                a {
+                    color:@rackRed;
+                }
+            }
+        }
+    }
+}
+
 
 
 
@@ -417,43 +435,6 @@ HERO
         }
     }
 
-    /*
-    border-top: 3px solid #EBEBEB;
-    margin-right: auto;
-    margin-left: auto;
-    padding: 50px 0 40px;
-
-    h1,
-    h2, 
-    h3 {
-        color: #454545;
-        letter-spacing: -1px;
-    }
-    h2 {
-        font-size: 42px;
-        font-weight: bold;
-        position: absolute; 
-        top: 60px; 
-        width: 100%; 
-    }
-    h3 {
-        font-size: 24px;
-        color: #999;
-        margin-top: 10px;
-    }
-    p {
-        font-size: 18px;
-        font-weight: 200;
-        line-height: 30px;
-    }
-    .big-media {
-        margin-top: -20px;
-    }
-    .big-media img {
-      margin-bottom: -6px;
-
-  }
-        */
   .lead {
     margin-bottom:20px;
   }
@@ -564,7 +545,7 @@ REPOS
             position:relative;
             z-index:100;
             overflow:hidden;
-            padding-bottom:30px;
+            padding: 10px 0 35px 0;
             margin:0 0 0px 0;
             border-bottom:1px solid #eaeaea;
             &:last-child {
@@ -622,6 +603,7 @@ REPOS
                     position:absolute;
                     top:55px;
                     right:0;
+                    display:none;
                 }
                 &.graphDiv {
                     position:absolute;
@@ -651,9 +633,15 @@ REPOS
 }
 
 
+
+
+
 /************************************
 SERVICES
 ************************************/
+#home-services {
+
+}
 .services-table {
     tbody {
         tr {
@@ -685,7 +673,12 @@ SERVICES
                     margin-right:10px;
                 }
                 .description {
-
+                    h5 {
+                        a {
+                            text-decoration:none;
+                            font-weight:800;
+                        }
+                    }
                 }
             }
         }
@@ -1094,25 +1087,69 @@ FOOTER
 
 
 
-.fm-update { 
-    margin-bottom: 20px; border-bottom: 1px #ddd; 
-    float:left;
-    width:20%;
-    height:140px;
-    padding:15px;
-    overflow:hidden;
 
+.repo-social-feed {
+    display:none;
 }
-.avatar { float: left; margin-right: 10px; height: 48px; width: 48px; }
-.author { 
-    font-size: 1.2em;
-    .narrow;
-    
+
+#social-feed {
+    .fm-update { 
+        margin-bottom: 20px; border-bottom: 1px #ddd; 
+        float:left;
+        width:20%;
+        height:140px;
+        padding:15px;
+        overflow:hidden;
+
+    }
+    .avatar { float: left; margin-right: 10px; height: 48px; width: 48px; }
+    .author { 
+        font-size: 1.2em;
+        .narrow;
+
+    }
+    .timestamp { font-size: .8em; color: #777; }
+    .text { 
+        .text14;
+        margin-top: 20px 0; 
+    }
 }
-.timestamp { font-size: .8em; color: #777; }
-.text { 
-    .text14;
-    margin-top: 20px 0; 
+.social-feed-header {
+    font-size:14px;
+    border-bottom:1px solid #d2d2d2;
+    margin-bottom:10px;
+}
+#social-feed-repo {
+    .fm-update { 
+        margin-bottom: 0px;
+        float:left;
+        width:33%;
+        height:140px;
+        overflow:hidden;
+        padding-right:20px;
+
+    }
+    .avatar { 
+        float: left; 
+        margin-right: 10px; 
+        height: 28px; 
+        width: 28px; 
+        border:1px solid black;
+        margin-bottom:0;
+        display:block;
+        position:relative;
+        top:3px;
+    }
+    .author { 
+        font-size:13px;
+        
+    }
+    .timestamp { font-size: 11px; color: #777; }
+    .text { 
+        font-size:11px;
+        line-height:1.4em;
+        margin-top: 20px 0; 
+    }
 }
 
 

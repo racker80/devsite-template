@@ -12,6 +12,11 @@
                         <img class="gravatar" height="20" src="https://secure.gravatar.com/avatar/87d20917065d96d56ae93d6dee66e987?s=140&amp;d=https://a248.e.akamai.net/assets.github.com%2Fimages%2Fgravatars%2Fgravatar-user-420.png" width="20"> 
                         <em>Cloud Integration Jenkins</em> </small>
                     </p>
+
+                    <div class="repo-social-feed">
+                        <h5 class="thin social-feed-header">#repose</h5>
+                        <div id="social-feed-repo" class="widget feed-widget clearfix">   </div>                       
+                    </div>
                 </div><!-- repo-description -->
                 <div class="repo-info">
 
@@ -35,6 +40,11 @@ for a guest.</p>
                         <img class="gravatar" height="20" src="https://secure.gravatar.com/avatar/87d20917065d96d56ae93d6dee66e987?s=140&amp;d=https://a248.e.akamai.net/assets.github.com%2Fimages%2Fgravatars%2Fgravatar-user-420.png" width="20"> 
                         <em>Cloud Integration Jenkins</em> </small>
                     </p>
+
+                    <div class="repo-social-feed">
+                        <h5 class="thin social-feed-header">#unixguestagent</h5>
+                        <div id="social-feed-repo" class="widget feed-widget clearfix">   </div>                       
+                    </div>               
                 </div><!-- repo-description -->
                 <div class="repo-info">
 
@@ -58,6 +68,10 @@ for a guest.</p>
                         <img class="gravatar" height="20" src="https://secure.gravatar.com/avatar/87d20917065d96d56ae93d6dee66e987?s=140&amp;d=https://a248.e.akamai.net/assets.github.com%2Fimages%2Fgravatars%2Fgravatar-user-420.png" width="20"> 
                         <em>Cloud Integration Jenkins</em> </small>
                     </p>
+                    <div class="repo-social-feed">
+                        <h5 class="thin social-feed-header">#unixguestagent</h5>
+                        <div id="social-feed-repo" class="widget feed-widget clearfix">   </div>                       
+                    </div>                                  
                 </div><!-- repo-description -->
                 <div class="repo-info">
 
@@ -81,6 +95,13 @@ for a guest.</p>
                         <img class="gravatar" height="20" src="https://secure.gravatar.com/avatar/87d20917065d96d56ae93d6dee66e987?s=140&amp;d=https://a248.e.akamai.net/assets.github.com%2Fimages%2Fgravatars%2Fgravatar-user-420.png" width="20"> 
                         <em>Cloud Integration Jenkins</em> </small>
                     </p>
+
+
+                    <div class="repo-social-feed">
+                        <h5 class="thin social-feed-header">#unixguestagent</h5>
+                        <div id="social-feed-repo" class="widget feed-widget clearfix">   </div>                       
+                    </div>
+                                   
                 </div><!-- repo-description -->
                 <div class="repo-info">
 

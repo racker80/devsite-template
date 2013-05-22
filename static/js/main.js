@@ -47,9 +47,10 @@ var fm_server = 'testdrive.feedmagnet.com'
  
 // do stuff once it is loaded
 fm_ready(function($, _) {
+    /*
     // create the feed object and get content
-        var feed = $FM.Feed('rackspace').get({
-            'limit':10
+        var feed = $FM.Feed('repose').get({
+            'limit':3
         })
  
         // process JSON data for each update into HTML
@@ -64,9 +65,13 @@ fm_ready(function($, _) {
                 '</div>' +
                 '<div class="text">' + udata.text + '</div>'
         })
- 
         // display the feed on the page
-        var output = $FM.Element('#social-feed').display(feed)
+        $('.feed-widget').each(function(offset){
+            $FM.Element($(this)).display(feed);
+        })
+        //var output = $FM.Element('.feed-widget').display(feed)
+
+        */
 })
 
 

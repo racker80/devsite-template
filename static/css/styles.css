@@ -9244,6 +9244,14 @@ dl.dl-list dd p {
 dl.dl-list dd a {
   color: #a80000;
 }
+.tabbable .nav.nav-tabs li a {
+  text-decoration: none;
+  padding: 10px 20px;
+  font-weight: 800;
+}
+.tabbable .nav.nav-tabs li.active a {
+  color: #a80000;
+}
 /*********************************************************
 FORMS
 *********************************************************/
@@ -9344,44 +9352,6 @@ HERO
 ************************************/
 .hero-unit {
   margin: 0;
-  /*
-    border-top: 3px solid #EBEBEB;
-    margin-right: auto;
-    margin-left: auto;
-    padding: 50px 0 40px;
-
-    h1,
-    h2, 
-    h3 {
-        color: #454545;
-        letter-spacing: -1px;
-    }
-    h2 {
-        font-size: 42px;
-        font-weight: bold;
-        position: absolute; 
-        top: 60px; 
-        width: 100%; 
-    }
-    h3 {
-        font-size: 24px;
-        color: #999;
-        margin-top: 10px;
-    }
-    p {
-        font-size: 18px;
-        font-weight: 200;
-        line-height: 30px;
-    }
-    .big-media {
-        margin-top: -20px;
-    }
-    .big-media img {
-      margin-bottom: -6px;
-
-  }
-        */
-
 }
 .hero-unit h1 {
   font-family: 'RobotoLight', 'HelveticaNeue', 'Helvetica Neue', Helvetica, Arial, san-serif;
@@ -9656,7 +9626,7 @@ REPOS
   position: relative;
   z-index: 100;
   overflow: hidden;
-  padding-bottom: 30px;
+  padding: 10px 0 35px 0;
   margin: 0 0 0px 0;
   border-bottom: 1px solid #eaeaea;
 }
@@ -9718,6 +9688,7 @@ REPOS
   position: absolute;
   top: 55px;
   right: 0;
+  display: none;
 }
 #home-repos .repolist li > div.graphDiv {
   position: absolute;
@@ -9761,6 +9732,10 @@ SERVICES
 #services-content .tab-pane#services-rackspace div.row-fluid > div .logo {
   float: left;
   margin-right: 10px;
+}
+#services-content .tab-pane#services-rackspace div.row-fluid > div .description h5 a {
+  text-decoration: none;
+  font-weight: 800;
 }
 #services-content .description .logo.right {
   float: right;
@@ -10203,7 +10178,10 @@ FOOTER
   margin-bottom: 15px;
   border-bottom: 1px solid #eaeaea;
 }
-.fm-update {
+.repo-social-feed {
+  display: none;
+}
+#social-feed .fm-update {
   margin-bottom: 20px;
   border-bottom: 1px #ddd;
   float: left;
@@ -10212,25 +10190,61 @@ FOOTER
   padding: 15px;
   overflow: hidden;
 }
-.avatar {
+#social-feed .avatar {
   float: left;
   margin-right: 10px;
   height: 48px;
   width: 48px;
 }
-.author {
+#social-feed .author {
   font-size: 1.2em;
   font-family: 'RobotoCondensedBold', 'HelveticaNeue', 'Helvetica Neue', Helvetica, Arial, san-serif;
 }
-.timestamp {
+#social-feed .timestamp {
   font-size: .8em;
   color: #777;
 }
-.text {
+#social-feed .text {
   color: #4c4c4c;
   font-size: 14px;
   line-height: 140%;
   letter-spacing: .01em;
   margin: 0 0 1em 0;
+  margin-top: 20px 0;
+}
+.social-feed-header {
+  font-size: 14px;
+  border-bottom: 1px solid #d2d2d2;
+  margin-bottom: 10px;
+}
+#social-feed-repo .fm-update {
+  margin-bottom: 0px;
+  float: left;
+  width: 33%;
+  height: 140px;
+  overflow: hidden;
+  padding-right: 20px;
+}
+#social-feed-repo .avatar {
+  float: left;
+  margin-right: 10px;
+  height: 28px;
+  width: 28px;
+  border: 1px solid black;
+  margin-bottom: 0;
+  display: block;
+  position: relative;
+  top: 3px;
+}
+#social-feed-repo .author {
+  font-size: 13px;
+}
+#social-feed-repo .timestamp {
+  font-size: 11px;
+  color: #777;
+}
+#social-feed-repo .text {
+  font-size: 11px;
+  line-height: 1.4em;
   margin-top: 20px 0;
 }
