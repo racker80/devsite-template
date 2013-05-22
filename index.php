@@ -21,18 +21,6 @@
     <script src="/static/js/plugins.js"></script>
     <script src="/static/js/main.js"></script>
 
-    <script>
-      $().ready(function () {
-        $(".lang-nav li").each(function(n) {
-            $(this).click(function () {
-              $('ul.nav-pills li.active').removeClass('active');
-              $(this).href.parent('li').addClass('active');
-            });
-        });
-      });
-    </script>
-
-
 
     </body>
 </html>
