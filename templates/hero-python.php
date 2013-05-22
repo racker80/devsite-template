@@ -4,7 +4,7 @@
                 <tbody>
                     <tr>
                         <td class="logo"><img src="/static/img/logos/python.gif" alt=""></td>
-                        <td class="text12">Python is a programming language that lets you work more quickly and integrate your systems more effectively. You can learn to use Python and see almost immediate gains in productivity and lower maintenance costs.</td>
+                        <td class="text12">Python is a remarkably powerful dynamic programming language that is used in a wide variety of application domains.</td>
                     </tr>
                 </tbody>
             </table>
