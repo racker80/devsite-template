@@ -62,7 +62,7 @@
                 </div>
                 <div class="span4">
                     <dl>
-                        <dt>.Net Cookbooks</dt>
+                        <dt>Cookbooks &amp; Samples</dt>
                         <dd>
                             <a class="link" href="https://github.com/rackspace/openstack.net/wiki/Getting-Started" target="_top">Getting Started with openstack.net</a>
                         </dd>
