@@ -9731,9 +9731,14 @@ SERVICES
 #services-content .tab-pane#services-rackspace div.row-fluid {
   padding: 20px 0;
 }
+#services-content .tab-pane#services-rackspace div.row-fluid > div .product {
+  padding-bottom: 30px;
+}
 #services-content .tab-pane#services-rackspace div.row-fluid > div .logo {
   float: left;
   margin-right: 10px;
+  width: 40px;
+  height: 40px;
 }
 #services-content .tab-pane#services-rackspace div.row-fluid > div .description h5 a {
   text-decoration: none;
