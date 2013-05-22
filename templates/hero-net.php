@@ -42,20 +42,20 @@
                 </div>
                 <div class="span4">
                     <dl>
-                        <dt>.Net Docs and Resources</dt>
+                        <dt>Docs and Resources</dt>
                         <dd>
-                            <a class="link" href="http://openstacknetsdk.com/docs" target="_top">API
-                            Reference Manual</a> – detailed documentation for
-                            the classes and methods.
-                        </dd>
-
-                        <dd>
-                            <a class="link" href="https://github.com/openstacknetsdk/openstack.net/wiki/Feature-Support" target="_top">Release Notes</a> – release notes for software
-                            versions.
+                            <a class="link" href="https://github.com/rackspace/openstack.net/wiki/Getting-Started" target="_top">Getting Started</a> – quick
+                            reference information for the services available.
                         </dd>
                         <dd>
-                            <a class="link" href="https://github.com/rackspace/openstack.net/wiki/Code-Samples" target="_top">Code Examples</a> – code examples demonstrating how
-                            to accomplish common tasks.
+                            <a class="link" href="http://openstacknetsdk.com/docs" target="_top">API Reference Manual</a> – detailed API documentation.
+                        </dd>
+                        <dd>
+                            <a class="link" href="https://github.com/openstacknetsdk/openstack.net/wiki/Feature-Support" target="_top">SDK Release Notes</a> - track changes between releases.
+                        </dd>
+                        <dd>
+                            <a class="link" href="https://github.com/rackspace/openstack.net/wiki/Code-Samples" target="_top">Examples</a> – code samples
+                            demonstrating how to accomplish common tasks.
                         </dd>
                     </dl>
 
@@ -64,7 +64,7 @@
                     <dl>
                         <dt>.Net Cookbooks</dt>
                         <dd>
-                            <a class="link" href="http://openstacknetsdk.com/" target="_top">Getting Started with openstack.net</a>                                                </dd>
+                            <a class="link" href="https://github.com/rackspace/openstack.net/wiki/Getting-Started" target="_top">Getting Started with openstack.net</a>
                         </dd>
                     </dl>
 
