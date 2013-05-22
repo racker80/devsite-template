@@ -48,7 +48,7 @@
                                                     <a class="link" href="http://docs.rackspace.com/sdks/api/php/" target="_top">API Reference Manual</a> – detailed API documentation.
                                                 </dd>
                                                 <dd>
-                                                    <a class="link" href="https://github.com/rackspace/php-opencloud/blob/master/RELEASENOTES.md" target="_top">Release Notes</a>.
+                                                    <a class="link" href="https://github.com/rackspace/php-opencloud/blob/master/RELEASENOTES.md" target="_top">SDK Release Notes</a> - track changes between releases.
                                                 </dd>
                                                 <dd>
                                                     <a class="link" href="https://github.com/rackspace/php-opencloud/tree/master/samples" target="_top">Samples</a> – code samples

@@ -48,7 +48,7 @@
                                                     <a class="link" href="http://rubydoc.info/gems/fog/" target="_top">API Reference Manual</a> – detailed API documentation.
                                                 </dd>
                                                 <dd>
-                                                    <a class="link" href="https://github.com/fog/fog/blob/master/changelog.txt" target="_top">Release Notes</a>.
+                                                    <a class="link" href="https://github.com/fog/fog/blob/master/changelog.txt" target="_top">SDK Release Notes</a> - track changes between releases.
                                                     versions.
                                                 </dd>
                                                 <dd>
