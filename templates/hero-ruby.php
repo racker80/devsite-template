@@ -39,10 +39,10 @@
                                         </div>
                                         <div class="span4">
                                             <dl>
-                                                <dt>Fog Docs and Resources</dt>
+                                                <dt>Docs and Resources</dt>
                                                 <dd>
-                                                    <a class="link" href="https://github.com/fog/fog/tree/master/lib/fog/rackspace/docs" target="_top">fog SDK Quick Reference</a> – several quick
-                                                    reference guides for the services available.
+                                                    <a class="link" href="https://github.com/fog/fog/tree/master/lib/fog/rackspace/docs" target="_top">SDK Quick Reference</a> – quick
+                                                    reference information for the services available.
                                                 </dd>
                                                 <dd>
                                                     <a class="link" href="http://rubydoc.info/gems/fog/" target="_top">API Reference Manual</a> – detailed API documentation.

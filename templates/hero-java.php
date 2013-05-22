@@ -41,7 +41,7 @@
                                         </div>
                                         <div class="span4">
                                             <dl>
-                                                <dt>jclouds Docs and Resources</dt>
+                                                <dt>Docs and Resources</dt>
                                                 <dd>
                                                     <a class="link" href="http://www.jclouds.org/documentation/quickstart/rackspace/" target="_top">Getting Started</a> - Getting Started Guide.
                                                 </dd>

@@ -39,9 +39,9 @@
                                         </div>
                                         <div class="span4">
                                             <dl>
-                                                <dt>Php-opencloud Docs and Resources</dt>
+                                                <dt>Docs and Resources</dt>
                                                 <dd>
-                                                    <a class="link" href="https://github.com/rackspace/php-opencloud/blob/master/docs/quickref.md" target="_top">php-opencloud Quick Reference</a> – quick
+                                                    <a class="link" href="https://github.com/rackspace/php-opencloud/blob/master/docs/quickref.md" target="_top">SDK Quick Reference</a> – quick
                                                     reference information for the services available.
                                                 </dd>
                                                 <dd>
