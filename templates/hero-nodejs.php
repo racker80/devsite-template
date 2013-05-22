@@ -3,7 +3,7 @@
             <table class="language-intro-table table">
                 <tbody>
                     <tr>
-                        <td class="logo"><img src="/static/img/logos/Nodejs_logo_light.png" alt=""></td>
+                        <td class="logo"><img src="/static/img/logos/nodejs.gif" alt=""></td>
                         <td class="text12">Node.js is a platform built on Chrome's JavaScript runtime for easily building fast, scalable network applications.</td>
                     </tr>
                 </tbody>

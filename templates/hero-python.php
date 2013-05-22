@@ -3,7 +3,7 @@
             <table class="language-intro-table table">
                 <tbody>
                     <tr>
-                        <td class="logo"><img src="/static/img/logos/486px-Python_logo.png" alt=""></td>
+                        <td class="logo"><img src="/static/img/logos/python.gif" alt=""></td>
                         <td class="text12">Python is a programming language that lets you work more quickly and integrate your systems more effectively. You can learn to use Python and see almost immediate gains in productivity and lower maintenance costs.</td>
                     </tr>
                 </tbody>

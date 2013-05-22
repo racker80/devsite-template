@@ -3,7 +3,7 @@
             <table class="language-intro-table table">
                 <tbody>
                     <tr>
-                        <td class="logo"><img src="/static/img/logos/javalogo-81x162.png" alt=""></td>
+                        <td class="logo"><img src="/static/img/logos/java.gif" alt=""></td>
                         <td class="text12">Java is a programming language and computing platform first released by Sun Microsystems in 1995.</td>
                     </tr>
                 </tbody>
