@@ -13,13 +13,10 @@
                                             <dl>
                                                 <dt>Rackspace Supported SDKs</dt>
                                                 <dd>
-                                                    <a href="https://github.com/fog/fog">Ruby SDK - Fog</a>
-                                                    <br>
-
-                                                    The official Rackspace SDK for Ruby.
-                                                        <br>
-                                                        Website: <a href="http://fog.io">http://fog.io</a>
-
+                                                    <a href="http://fog.io">Fog</a> - The official Rackspace SDK for Ruby.
+                                                </dd>
+                                                <dd>
+                                                    <a href="https://github.com/fog/fog">Fog on GitHub</a>
                                                 </dd>
 
                                             </dl>
@@ -37,7 +34,6 @@
                                                 <dd>
                                                     <strong>Report Issues:</strong> <a href="https://github.com/fog/fog/issues">Github</a>
                                                 </dt>
-
                                             </dl>
 
                                         </div>
@@ -45,12 +41,11 @@
                                             <dl>
                                                 <dt>Ruby Docs and Resources</dt>
                                                 <dd>
-                                                    <a class="link" href="http://rubydoc.info/gems/fog/" target="_top">API Reference Manual</a> – detailed
-                                                    documentation for the classes and methods.
-                                                </dd>
-                                                <dd>
                                                     <a class="link" href="https://github.com/fog/fog/tree/master/lib/fog/rackspace/docs" target="_top">Ruby SDK Quick Reference</a> – several quick
                                                     reference guides for the services available.
+                                                </dd>
+                                                <dd>
+                                                    <a class="link" href="http://rubydoc.info/gems/fog/" target="_top">API Reference Manual</a> – detailed API documentation.
                                                 </dd>
                                                 <dd>
                                                     <a class="link" href="https://github.com/fog/fog/blob/master/changelog.txt" target="_top">Release Notes</a> – release notes for software

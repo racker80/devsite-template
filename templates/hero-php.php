@@ -13,7 +13,7 @@
                                             <dl>
                                                 <dt>Rackspace Supported SDKs</dt>
                                                 <dd>
-                                                    <a href="http://php-opencloud.com/">PHP OpenCloud Website</a>
+                                                    <a href="http://php-opencloud.com/">PHP OpenCloud</a> - The official Rackspace SDK for PHP.
                                                 </dd>
                                                 <dd>
                                                     <a href="https://github.com/rackspace/php-opencloud">PHP OpenCloud on GitHub</a>
