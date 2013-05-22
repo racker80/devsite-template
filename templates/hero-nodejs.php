@@ -20,9 +20,17 @@
                     <dl>
                         <dt>Community Links</dt>
                         <dd>
-                            TDB
+                            <strong>Twitter:</strong> <a href="https://twitter.com/search?q=pkgcloud">#pkgcloud</a>
                         </dd>
-
+                        <dd>
+                            <strong>IRC:</strong> <a href="irc://irc.freenode.net/nodejitsu">#nodejitsu</a> on irc.freenode.net
+                        </dd>
+                        <dd>
+                            <strong>Got Questions:</strong> <a href="mailto:sdk-support@rackspace.com">sdk-support@rackspace.com</a>
+                        </dt>
+                        <dd>
+                            <strong>Report Issues:</strong> <a href="https://github.com/nodejitsu/pkgcloud/issues">Github</a>
+                        </dt>
                     </dl>
 
                 </div>
