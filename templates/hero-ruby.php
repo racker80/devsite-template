@@ -39,9 +39,9 @@
                                         </div>
                                         <div class="span4">
                                             <dl>
-                                                <dt>Ruby Docs and Resources</dt>
+                                                <dt>Fog Docs and Resources</dt>
                                                 <dd>
-                                                    <a class="link" href="https://github.com/fog/fog/tree/master/lib/fog/rackspace/docs" target="_top">Ruby SDK Quick Reference</a> – several quick
+                                                    <a class="link" href="https://github.com/fog/fog/tree/master/lib/fog/rackspace/docs" target="_top">fog SDK Quick Reference</a> – several quick
                                                     reference guides for the services available.
                                                 </dd>
                                                 <dd>
@@ -60,7 +60,7 @@
                                         </div>
                                         <div class="span4">
                                             <dl>
-                                                <dt>Ruby Cookbooks</dt>
+                                                <dt>Fog Cookbooks</dt>
                                                 <dd>
                                                     <a class="link" href="https://github.com/fog/fog/blob/master/lib/fog/rackspace/docs/getting_started.md" target="_top">Getting Started with Fog and the Rackspace Cloud</a>
                                                 </dd>
