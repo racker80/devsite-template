@@ -18,7 +18,9 @@
                     <dd>
                         <a href="https://github.com/fog/fog">Fog on GitHub</a>
                     </dd>
-
+                    <dd>
+                        <a class="link" href="http://docs.rackspace.com/sdks/guide/content/ruby.html" target="_top">SDK Documentation</a> by Rackspace.
+                    </dd>
                 </dl>
                 <dl>
                     <dt>Community Links</dt>
