@@ -26,7 +26,7 @@
                                                     <strong>IRC:</strong> <a href="irc://irc.freenode.net/rackspace">#rackspace</a> on irc.freenode.net
                                                 </dd>
                                                 <dd>
-                                                    <strong>Got Questions</strong> <a href="mailto:sdk-support@rackspace.com">sdk-support@rackspace.com</a>
+                                                    <strong>Got Questions:</strong> <a href="mailto:sdk-support@rackspace.com">sdk-support@rackspace.com</a>
                                                 </dt>
                                                 <dd>
                                                     <strong>Report Issues:</strong> <a href="https://github.com/rackspace/php-opencloud/issues">GitHub</a>

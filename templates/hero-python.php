@@ -13,29 +13,34 @@
                                             <dl>
                                                 <dt>Rackspace Supported SDKs</dt>
                                                 <dd>
-                                                    <a href="https://github.com/rackspace/pyrax">Pyrax SDK for Python</a>
-                                                    <br>
-                                                    The Python SDK is not tested yet with other Python
-              versions. Please post feedback about what works or does
-              not work with other versions at <a class="link" href="https://github.com/rackspace/pyrax/issues" target="_top">https://github.com/rackspace/pyrax/issues</a> or
-              email <a class="link" href="mailto:sdk-support@rackspace.com" target="_top">sdk-support@rackspace.com</a>.
+                                                    <a href="https://github.com/rackspace/pyrax">Pyrax</a> - The official Rackspace SDK for Python.
                                                 </dd>
-
+                                                <dd>
+                                                    <a href="https://pypi.python.org/pypi/pyrax/">Pyrax on PyPI</a>
+                                                </dd>
                                             </dl>
-
+                                            <dl>
+                                                <dt>Community Links</dt>
+                                                <dd>
+                                                    <strong>IRC:</strong> <a href="irc://irc.freenode.net/rackspace">#rackspace</a> on irc.freenode.net
+                                                </dd>
+                                                <dd>
+                                                    <strong>Got Questions:</strong> <a href="mailto:sdk-support@rackspace.com">sdk-support@rackspace.com</a>
+                                                </dt>
+                                                <dd>
+                                                    <strong>Report Issues:</strong> <a href="https://github.com/rackspace/pyrax/issues">Github</a>
+                                                </dt>
+                                            </dl>
                                         </div>
                                         <div class="span4">
                                             <dl>
                                                 <dt>Python Docs and Resources</dt>
                                                 <dd>
-                                                    <a class="link" href="http://docs.rackspace.com/sdks/api/python/" target="_top">API
-                                                        Reference Manual</a> – detailed documentation for
-                                                        the classes and methods.
-                                                </dd>
-
-                                                <dd>
                                                     <a class="link" href="https://github.com/rackspace/pyrax/tree/master/docs" target="_top">Pyrax Quick Reference</a> – several quick
                                                     reference guides for the services available.
+                                                </dd>
+                                                <dd>
+                                                    <a class="link" href="http://docs.rackspace.com/sdks/api/python/" target="_top">API Reference Manual</a>
                                                 </dd>
                                                 <dd>
                                                     <a class="link" href="https://github.com/rackspace/pyrax/blob/master/RELEASENOTES.md" target="_top">Release Notes</a> – release notes for software
