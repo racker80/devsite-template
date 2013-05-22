@@ -13,7 +13,7 @@
                     <dl>
                         <dt>Rackspace Supported SDKs</dt>
                         <dd>
-                            <a href="https://github.com/nodejitsu/pkgcloud">Node.js SDK - pkgcloud</a> - The official Rackspace SDK for Node.js.
+                            <a href="https://github.com/nodejitsu/pkgcloud">pkgcloud</a> - The official Rackspace SDK for Node.js.
                         </dd>
 
                     </dl>
