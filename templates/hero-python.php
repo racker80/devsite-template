@@ -36,8 +36,7 @@
                                             <dl>
                                                 <dt>Docs and Resources</dt>
                                                 <dd>
-                                                    <a class="link" href="https://github.com/rackspace/pyrax/tree/master/docs" target="_top">Pyrax Quick Reference</a> – several quick
-                                                    reference guides for the services available.
+                                                    <a class="link" href="https://github.com/rackspace/pyrax/tree/master/docs" target="_top">Pyrax Quick Reference</a> – quick reference information for the services available.
                                                 </dd>
                                                 <dd>
                                                     <a class="link" href="http://docs.rackspace.com/sdks/api/python/" target="_top">API Reference Manual</a>
