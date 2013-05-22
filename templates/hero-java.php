@@ -14,11 +14,11 @@
                                             <dl>
                                                 <dt>Rackspace Supported SDKs</dt>
                                                 <dd>
-                                                    <a href="http://www.oracle.com/technetwork/java/javase/downloads/index.html">Java Development Kit (JDK) version 6 or later</a>
-                                                    <br>
-                                                    The official The Rackspace Cloud SDK for Java
+                                                    <a href="http://www.jclouds.org/documentation/quickstart/rackspace/">jclouds</a> - The official Rackspace SDK for Java.
                                                 </dd>
-                                                <dd>Webiste - <a href="http://www.jclouds.org/">jclouds.org</a></dd>
+                                                <dd>
+                                                    <a href="https://github.com/jclouds/jclouds">jclouds on GitHub</a>
+                                                </dd>
 
                                             </dl>
 
@@ -31,32 +31,26 @@
                                                     <strong>IRC:</strong> <a href="irc://irc.freenode.net/jclouds">#jclouds</a> on irc.freenode.net
                                                 </dd>
                                                 <dd>
-                                                    <strong>Mailing List:</strong> <a href="http://groups.google.com/group/jclouds-dev">jclouds-dev</a>
+                                                    <strong>Mailing List:</strong>  <a href="mailto:jclouds-user-subscribe@apache.org">Subscribe</a> | <a href="http://www.mail-archive.com/user@jclouds.incubator.apache.org/">Archive</a>
                                                 </dt>
                                                 <dd>
-                                                    <strong>Report Issues:</strong> <a href="https://github.com/jclouds/jclouds/issues">Issue Tracker</a>
+                                                    <strong>Report Issues:</strong> <a href="https://issues.apache.org/jira/browse/JCLOUDS">Issue Tracker</a>
                                                 </dt>
                                             </dl>
 
                                         </div>
                                         <div class="span4">
                                             <dl>
-                                                <dt>Java Docs and Resources</dt>
+                                                <dt>jclouds Docs and Resources</dt>
                                                 <dd>
-                                                    <a class="link" href="http://docs.rackspace.com/sdks/api/php/" target="_top">API Reference Manual</a>   – detailed documentation for the classes and
-                                                </dd>
-
-                                                <dd>
-                                                    <a class="link" href="https://github.com/rackspace/php-opencloud/blob/master/docs/quickref.md" target="_top">php-opencloud Quick Reference</a> – quick
-                                                    reference information for the services available.
+                                                    <a class="link" href="http://www.jclouds.org/documentation/quickstart/rackspace/" target="_top">Getting Started</a>
                                                 </dd>
                                                 <dd>
-                                                    <a class="link" href="https://github.com/rackspace/php-opencloud/blob/master/RELEASENOTES.md" target="_top">Release Notes</a> – release notes for software
+                                                    <a class="link" href="http://javadocs.jclouds.cloudbees.net/" target="_top">API Reference Manual</a>
+                                                </dd>
+                                                <dd>
+                                                    <a class="link" href="http://www.jclouds.org/documentation/releasenotes/" target="_top">Release Notes</a> – release notes for software
                                                     versions.
-                                                </dd>
-                                                <dd>
-                                                    <a class="link" href="https://github.com/rackspace/php-opencloud/tree/master/samples" target="_top">Samples</a> – code samples
-                                                    demonstrating how to accomplish common tasks.
                                                 </dd>
                                             </dl>
 
