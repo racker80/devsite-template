@@ -1,4 +1,4 @@
-        <div id="home-blog" class="container">
+        <div id="home-blog" class="container section-container">
             <header class="section-header">
                 <a href="" class="pull-right">visit blog</a>
                 <h2 class="section-title lite">DevOps Blog</h2>

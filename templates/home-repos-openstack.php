@@ -1,4 +1,4 @@
-						<div class="tab-pane " id="home-repos-openstack">
+						<div class="tab-pane active" id="home-repos-openstack">
 							<h3 class="narrow">Open<span>Stack</span> Projects</h3>
 							    <ul class="repolist js-repo-list">
 							        <li class="row-fluid" data-user="openstack" data-repo="python-glanceclient">

@@ -280,6 +280,10 @@ HOMEPAGE
     margin-bottom:10px;
 }
 
+.section-container {
+    margin-bottom:60px;
+}
+
 /************************************
 HERO
 ************************************/
@@ -482,6 +486,22 @@ HERO
 /************************************
 REPOS
 ************************************/
+
+#community-projects-nav {
+        li {
+            width:50%;
+            a {
+                text-align:center;
+                .caps;
+            }
+            &.active {
+                a {
+                    .buttonBackground(@btnSuccessBackground, @btnSuccessBackgroundHighlight);
+                }
+            }
+        }
+}
+
 #home-repos {
 
     .tabbable {
@@ -651,7 +671,7 @@ SERVICES
                     margin-right:10px;
                 }
                 .description {
-                    
+
                 }
             }
         }

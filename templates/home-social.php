@@ -1,6 +1,6 @@
 
 
-        <div class="container">
+        <div class="container section-container">
             <header class="section-header">
                 <h2 class="section-title lite">On the web</h2>
             </header>

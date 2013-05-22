@@ -1,6 +1,6 @@
 
 
-          <div id="home-services" class="container">
+          <div id="home-services" class="container section-container">
                <header class="section-header">
                     <h2 class="section-title lite">Get Started With Cloud Services</h2>
                </header>
