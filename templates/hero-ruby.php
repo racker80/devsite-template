@@ -18,6 +18,9 @@
                     <dd>
                         <a href="https://github.com/fog/fog">Fog on GitHub</a>
                     </dd>
+                    <dd>
+                        <a href="https://rubygems.org/gems/fog">Fog on RubyGems</a>
+                    <dd>
                 </dl>
                 <dl>
                     <dt>Community Links</dt>
