@@ -61,7 +61,7 @@
                     <dl>
                         <dt>Cookbooks &amp; Samples</dt>
                         <dd>
-                            <a class="link" href="https://github.com/rackspace/php-opencloud/blob/master/docs/userguide/index.md" target="_top">Getting Started with php-opencloud</a>
+                            <a class="link" href="https://github.com/rackspace/php-opencloud/blob/master/docs/userguide/index.md" target="_top">Getting Started with php-opencloud and the Rackspace Cloud</a>
                         </dd>
                     </dl>
 

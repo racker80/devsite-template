@@ -55,7 +55,8 @@
                     <dl>
                         <dt>Python Cookbooks</dt>
                         <dd>
-                            <a class="link" href="https://github.com/rackspace/pyrax/blob/master/docs/pyrax_doc.md" target="_top">Getting Started with pyrax</a>                                                </dd>
+                            <a class="link" href="https://github.com/rackspace/pyrax/blob/master/docs/pyrax_doc.md" target="_top">Getting Started with pyrax and the Rackspace Cloud</a>
+                        </dd>
                     </dl>
 
                 </div>
