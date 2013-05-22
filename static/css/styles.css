@@ -9220,6 +9220,10 @@ dl.dl-list dt {
   margin: 0 0 1em 0;
   padding: 0 0 0px;
   margin: 0;
+  margin-top: 15px;
+}
+dl.dl-list dt:first-child {
+  margin-top: 0;
 }
 dl.dl-list dd {
   padding: 5px 0 5px 10px;
@@ -9597,9 +9601,6 @@ REPOS
   text-decoration: none;
   font-size: 14px;
 }
-#home-repos .tab-pane h3.narrow {
-  text-align: center;
-}
 #home-repos .repo-table td h2 {
   margin: 0;
   padding: 0;
@@ -9714,10 +9715,6 @@ REPOS
   right: 0;
   z-index: 1;
   width: 50%;
-}
-#home-repos #community-sidebar {
-  margin-top: 20px;
-  padding-top: 20px;
 }
 #home-repos #community-sidebar h4 {
   font-family: 'RobotoCondensedBold', 'HelveticaNeue', 'Helvetica Neue', Helvetica, Arial, san-serif;

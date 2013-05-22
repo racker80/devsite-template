@@ -4,7 +4,7 @@
 
                     <div class="span2">
 
-                        <div class="tabbable tabs-left">
+                        <div class="tabbable tabs-left hidden">
                             <ul class="nav nav-tabs">
                                 <li class="active"><a href="#home-repos-openstack" data-toggle="tab">OpenStack</a></li>
                                 <li class=""><a href="#home-repos-other" data-toggle="tab">Other</a></li>

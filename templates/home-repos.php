@@ -6,7 +6,7 @@
 
 <div class="tabbable">
     <ul id="community-projects-nav" class="nav nav-tabs">
-        <li class="active"><a href="#building-on-cloud" data-toggle="tab">Building On The Cloud</a></li>
+        <li class="active"><a href="#building-on-cloud" data-toggle="tab">Building On The Cloud With Rackspace</a></li>
         <li><a href="#building-private-cloud" data-toggle="tab">Building Your Own Cloud With OpenStack</a></li>
     </ul>
     <div class="tab-content">

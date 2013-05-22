@@ -3,8 +3,8 @@
                 <div class="row-fluid">
 
                     <div class="span2">
-
-                        <div class="tabbable tabs-left">
+                        
+                        <div class="tabbable tabs-left hidden">
                             <ul class="nav nav-tabs">
                                 <li class="active"><a href="#home-repos-featured" data-toggle="tab">Featured</a></li>
                                 <li class=""><a href="#home-repos-rackspace" data-toggle="tab">Rackspace</a></li>
@@ -22,12 +22,17 @@
                                 <dd>
                                     <a href="irc://irc.freenode.net/openstack">#openstack</a>
                                 </dd>
-                                <br/>
                                 <dt>Twitter</dt>
                                 <dd>
                                     <a href="https://twitter.com/rackspace">@rackspace</a>
                                 </dd>
-
+                                <dt>Github</dt>
+                                <dd>
+                                    <a href="https://github.com/rackspace" target="_blank">Rackspace SDKs</a>
+                                </dd>
+                                <dd>
+                                    <a href="https://github.com/rackerlabs" target="_blank">Racker Labs</a>
+                                </dd                                
                             </dl>
                         </div>
 
