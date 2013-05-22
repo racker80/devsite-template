@@ -34,12 +34,10 @@
                             reference guides for the services available.
                         </dd>
                         <dd>
-                            <a class="link" href="#" target="_top">API Reference Manual</a> – detailed
-                            documentation for the classes and methods.
+                            <a class="link" href="#" target="_top">API Reference Manual</a>  – detailed API documentation.
                         </dd>
                         <dd>
-                            <a class="link" href="https://github.com/nodejitsu/pkgcloud/blob/master/CHANGELOG.md" target="_top">Release Notes</a> – release notes for software
-                            versions.
+                            <a class="link" href="https://github.com/nodejitsu/pkgcloud/blob/master/CHANGELOG.md" target="_top">Release Notes</a> - track changes between releases.
                         </dd>
                         <dd>
                             <a class="link" href="https://github.com/nodejitsu/pkgcloud/blob/master/docs/providers/rackspace.md" target="_top">Examples</a> – code examples demonstrating how to

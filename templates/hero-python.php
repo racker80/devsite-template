@@ -45,7 +45,7 @@
                             <a class="link" href="https://github.com/rackspace/pyrax/blob/master/RELEASENOTES.md" target="_top">SDK Release Notes</a> - track changes between releases.
                         </dd>
                         <dd>
-                            <a class="link" href="https://github.com/rackspace/pyrax/tree/master/samples" target="_top">Samples</a> – code samples demonstrating how to
+                            <a class="link" href="https://github.com/rackspace/pyrax/tree/master/samples" target="_top">Examples</a> – code samples demonstrating how to
                             accomplish common tasks.
                         </dd>
                     </dl>
