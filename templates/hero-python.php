@@ -34,7 +34,7 @@
                                         </div>
                                         <div class="span4">
                                             <dl>
-                                                <dt>Python Docs and Resources</dt>
+                                                <dt>Docs and Resources</dt>
                                                 <dd>
                                                     <a class="link" href="https://github.com/rackspace/pyrax/tree/master/docs" target="_top">Pyrax Quick Reference</a> – several quick
                                                     reference guides for the services available.

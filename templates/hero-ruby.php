@@ -60,7 +60,7 @@
                                         </div>
                                         <div class="span4">
                                             <dl>
-                                                <dt>Fog Cookbooks</dt>
+                                                <dt>Cookbooks</dt>
                                                 <dd>
                                                     <a class="link" href="https://github.com/fog/fog/blob/master/lib/fog/rackspace/docs/getting_started.md" target="_top">Getting Started with Fog and the Rackspace Cloud</a>
                                                 </dd>
