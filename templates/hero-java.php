@@ -43,10 +43,10 @@
                                             <dl>
                                                 <dt>jclouds Docs and Resources</dt>
                                                 <dd>
-                                                    <a class="link" href="http://www.jclouds.org/documentation/quickstart/rackspace/" target="_top">Getting Started</a>
+                                                    <a class="link" href="http://www.jclouds.org/documentation/quickstart/rackspace/" target="_top">Getting Started</a> - Getting Started Guide.
                                                 </dd>
                                                 <dd>
-                                                    <a class="link" href="http://javadocs.jclouds.cloudbees.net/" target="_top">API Reference Manual</a>
+                                                    <a class="link" href="http://javadocs.jclouds.cloudbees.net/" target="_top">API Reference Manual</a> – detailed API documentation.
                                                 </dd>
                                                 <dd>
                                                     <a class="link" href="http://www.jclouds.org/documentation/releasenotes/" target="_top">Release Notes</a> – release notes for software
