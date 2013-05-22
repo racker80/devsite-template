@@ -23,16 +23,13 @@
                                             <dl>
                                                 <dt>Community Links</dt>
                                                 <dd>
-                                                    <strong>Twitter:</strong> <a href="https://twitter.com/openstack">@openstack</a>
+                                                    <strong>IRC:</strong> <a href="irc://irc.freenode.net/rackspace">#rackspace</a> on irc.freenode.net
                                                 </dd>
                                                 <dd>
-                                                    <strong>IRC:</strong> <a href="irc://irc.freenode.net/openstack">#openstack</a> on irc.freenode.net
-                                                </dd>
-                                                <dd>
-                                                    <strong>Got Questions</strong> <a href="https://ask.openstack.org/questions/">Ask OpenStack!</a>
+                                                    <strong>Got Questions</strong> <a href="mailto:sdk-support@rackspace.com">sdk-support@rackspace.com</a>
                                                 </dt>
                                                 <dd>
-                                                    <strong>Report Issues:</strong> <a href="https://wiki.openstack.org/wiki/HowToContribute#If_you.27re_a_tester_.28and_breaker.29.2C_get_started_this_way:">How To Contribute</a>
+                                                    <strong>Report Issues:</strong> <a href="https://github.com/rackspace/php-opencloud/issues">GitHub</a>
                                                 </dt>
 
                                             </dl>
