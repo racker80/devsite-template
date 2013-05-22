@@ -13,10 +13,10 @@
                     <dl>
                         <dt>Rackspace Supported SDKs</dt>
                         <dd>
-                            <a href="https://github.com/rackspace/pyrax">Pyrax</a> - The official Rackspace SDK for Python.
+                            <a href="https://github.com/rackspace/pyrax">pyrax</a> - The official Rackspace SDK for Python.
                         </dd>
                         <dd>
-                            <a href="https://pypi.python.org/pypi/pyrax/">Pyrax on PyPI</a>
+                            <a href="https://pypi.python.org/pypi/pyrax/">pyrax on PyPI</a>
                         </dd>
                     </dl>
                     <dl>
