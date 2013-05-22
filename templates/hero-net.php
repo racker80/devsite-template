@@ -18,18 +18,27 @@
                     <dl>
                         <dt>Rackspace Supported SDKs</dt>
                         <dd>
-                            <a href="https://github.com/rackspace/openstack.net/zipball/master">Openstack.net</a>
-                            <br>
-                            for Microsoft .NET 4.0 or later
-                            <br>
-                            Website - <a href="http://openstacknet.sdk.org">http://openstacknetsdk.org/</a>
-                            <br>
-                            <br>
-                            <a href="http://visualstudiogallery.msdn.microsoft.com/27077b70-9dad-4c64-adcf-c7cf6bc9970c">NuGet package manager</a>
+                            <a href="http://openstacknetsdk.org/">Openstack.net</a> - The official Rackspace SDK for .Net.
                         </dd>
-
+                        <dd>
+                            <a href="https://github.com/rackspace/openstack.net">Openstack.net on GitHub</a>
+                        </dd>
                     </dl>
-
+                    <dl>
+                        <dt>Community Links</dt>
+                        <dd>
+                            <strong>Twitter:</strong> <a href="https://twitter.com/rackspace">@rackspace</a>
+                        </dd>
+                        <dd>
+                            <strong>IRC:</strong> <a href="irc://irc.freenode.net/rackspace">#rackspace</a> on irc.freenode.net
+                        </dd>
+                        <dd>
+                            <strong>Got Questions:</strong> <a href="mailto:sdk-support@rackspace.com">sdk-support@rackspace.com</a>
+                        </dt>
+                        <dd>
+                            <strong>Report Issues:</strong> <a href="https://github.com/rackspace/openstack.net/issues">Github</a>
+                        </dt>
+                    </dl>
                 </div>
                 <div class="span4">
                     <dl>
