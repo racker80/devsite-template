@@ -31,6 +31,9 @@
                                                 <dd>
                                                     <strong>Report Issues:</strong> <a href="https://github.com/rackspace/php-opencloud/issues">GitHub</a>
                                                 </dt>
+                                                <dd>
+                                                    <strong>Contributing:</strong> <a href="https://github.com/rackspace/php-opencloud/blob/master/HACKING.md">Contributor How-To</a>
+                                                </dt>
 
                                             </dl>
                                         </div>
@@ -38,12 +41,11 @@
                                             <dl>
                                                 <dt>PHP Docs and Resources</dt>
                                                 <dd>
-                                                    <a class="link" href="http://docs.rackspace.com/sdks/api/php/" target="_top">API Reference Manual</a>   – detailed documentation for the classes and
-                                                </dd>
-
-                                                <dd>
                                                     <a class="link" href="https://github.com/rackspace/php-opencloud/blob/master/docs/quickref.md" target="_top">php-opencloud Quick Reference</a> – quick
                                                     reference information for the services available.
+                                                </dd>
+                                                <dd>
+                                                    <a class="link" href="http://docs.rackspace.com/sdks/api/php/" target="_top">API Reference Manual</a> – detailed API documentation.
                                                 </dd>
                                                 <dd>
                                                     <a class="link" href="https://github.com/rackspace/php-opencloud/blob/master/RELEASENOTES.md" target="_top">Release Notes</a> – release notes for software
