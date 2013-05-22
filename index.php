@@ -3,14 +3,14 @@
     <?php include('templates/hero.php'); ?>
 
     <div id="page">
-        <?php include('templates/home-openstack.php'); ?>
+        <?php include('templates/home-services.php'); ?> 
 
         <?php include('templates/home-repos.php'); ?>
         <?php include('templates/home-blog.php'); ?> 
         <?php include('templates/home-social.php'); ?> 
-        <?php include('templates/home-services.php'); ?> 
 
-  
+          <?php include('templates/home-openstack.php'); ?>
+
     </div><!-- page -->
 
     <?php include('templates/footer.php'); ?>

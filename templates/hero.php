@@ -36,10 +36,7 @@
 
 
 
-
-
-
-            <div id="hero-sidebar" class="row-fluid">
+            <div id="hero-sidebar" class="row-fluid hidden">
 
 
                 <div class="span4 well">
@@ -81,3 +78,5 @@
 
          </div><!-- container -->
     </div><!-- hero unit -->
+
+

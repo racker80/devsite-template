@@ -9327,7 +9327,6 @@ NAV ELEMENT
 HOMEPAGE
 ************************************/
 .section-header {
-  border-bottom: 1px solid #eaeaea;
   margin-bottom: 10px;
 }
 /************************************
@@ -9692,6 +9691,13 @@ SERVICES
   line-height: 140%;
   letter-spacing: .01em;
   margin: 0 0 1em 0;
+}
+#services-content .tab-pane#services-rackspace div.row-fluid {
+  padding: 20px 0;
+}
+#services-content .tab-pane#services-rackspace div.row-fluid > div .logo {
+  float: left;
+  margin-right: 10px;
 }
 /************************************
 BLOG
