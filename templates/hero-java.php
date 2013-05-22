@@ -19,7 +19,9 @@
                         <dd>
                             <a href="http://incubator.apache.org/projects/jclouds.html">jclouds on the Apache Software Foundation</a>
                         </dd>
-
+                        <dd>
+                            <a class="link" href="http://docs.rackspace.com/sdks/guide/content/java.html" target="_top">SDK Documentation</a> by Rackspace.
+                        </dd>
                     </dl>
 
                     <dl>

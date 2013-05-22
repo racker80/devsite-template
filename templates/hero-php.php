@@ -18,7 +18,9 @@
                         <dd>
                             <a href="https://github.com/rackspace/php-opencloud">PHP OpenCloud on GitHub</a>
                         </dd>
-
+                        <dd>
+                            <a class="link" href="http://docs.rackspace.com/sdks/guide/content/php.html" target="_top">SDK Documentation</a> by Rackspace.
+                        </dd>
                     </dl>
                     <dl>
                         <dt>Community Links</dt>

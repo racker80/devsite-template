@@ -23,6 +23,9 @@
                         <dd>
                             <a href="https://github.com/rackspace/openstack.net">Openstack.net on GitHub</a>
                         </dd>
+                        <dd>
+                            <a class="link" href="http://docs.rackspace.com/sdks/guide/content/net.html" target="_top">SDK Documentation</a> by Rackspace.
+                        </dd>
                     </dl>
                     <dl>
                         <dt>Community Links</dt>
