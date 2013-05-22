@@ -9376,9 +9376,11 @@ HERO
   line-height: 1em;
   padding: 10px 25px 5px;
   background-color: #d2d2d2;
+  font-weight: 400;
 }
 .hero-unit .tabbable .nav.nav-tabs li.active a {
   background-color: #a80000;
+  color: #fff;
 }
 .hero-unit .language-overview .language-intro {
   margin-bottom: 20px;
