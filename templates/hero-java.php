@@ -17,7 +17,7 @@
                                                     <a href="http://www.jclouds.org/documentation/quickstart/rackspace/">jclouds</a> - The official Rackspace SDK for Java.
                                                 </dd>
                                                 <dd>
-                                                    <a href="https://github.com/jclouds/jclouds">jclouds on GitHub</a>
+                                                    <a href="http://incubator.apache.org/projects/jclouds.html">jclouds on the Apache Software Foundation</a>
                                                 </dd>
 
                                             </dl>
@@ -25,7 +25,7 @@
                                             <dl>
                                                 <dt>Community Links</dt>
                                                 <dd>
-                                                    <strong>Twitter:</strong> <a href="https://twitter.com/jclouds">@jclouds</a>
+                                                    <strong>Twitter:</strong> <a href="https://twitter.com/search?q=jclouds">#jclouds</a>
                                                 </dd>
                                                 <dd>
                                                     <strong>IRC:</strong> <a href="irc://irc.freenode.net/jclouds">#jclouds</a> on irc.freenode.net
