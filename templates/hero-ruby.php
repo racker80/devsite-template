@@ -18,7 +18,6 @@
                     <dd>
                         <a href="https://github.com/fog/fog">Fog on GitHub</a>
                     </dd>
-
                 </dl>
                 <dl>
                     <dt>Community Links</dt>
@@ -40,6 +39,9 @@
             <div class="span4">
                 <dl>
                     <dt>Docs and Resources</dt>
+                    <dd>
+                        <a class="link" href="http://docs.rackspace.com/sdks/guide/content/ruby.html" target="_top">SDK Documentation</a> by Rackspace.
+                    </dd>
                     <dd>
                         <a class="link" href="https://github.com/fog/fog/tree/master/lib/fog/rackspace/docs" target="_top">SDK Quick Reference</a> – quick
                         reference information for the services available.
