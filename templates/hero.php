@@ -7,24 +7,24 @@
                     <p class="lead">The future is built on top of the code you write today. We want to make it easy to innovate in an open cloud and support developers who want to make a difference.</p>
                     <div class="tabbable">
                         <ul class="nav nav-tabs nav-pills">
-                           <li class="active"><a href="#hero-openstack" data-toggle="tab">OpenStack</a></li>
-                           <li><a href="#hero-php" data-toggle="tab">PHP</a></li>
-                            <li><a href="#hero-ruby" data-toggle="tab">Ruby</a></li>
+                            <li class="active"><a href="#hero-openstack" data-toggle="tab">OpenStack</a></li>
                             <li><a href="#hero-java" data-toggle="tab">Java</a></li>
-                            <li><a href="#hero-python" data-toggle="tab">Python</a></li>
                             <li><a href="#hero-net" data-toggle="tab">.Net</a></li>
                             <li><a href="#hero-nodejs" data-toggle="tab">Node.js</a></li>
+                            <li><a href="#hero-php" data-toggle="tab">PHP</a></li>
+                            <li><a href="#hero-python" data-toggle="tab">Python</a></li>
+                            <li><a href="#hero-ruby" data-toggle="tab">Ruby</a></li>
                         </ul>
 
                         <div class="tab-content">
 
                             <?php include('templates/hero-openstack.php'); ?>
-                            <?php include('templates/hero-php.php'); ?>
-                            <?php include('templates/hero-ruby.php'); ?>
                             <?php include('templates/hero-java.php'); ?>
-                            <?php include('templates/hero-python.php'); ?>
                             <?php include('templates/hero-net.php'); ?>
                             <?php include('templates/hero-nodejs.php'); ?>
+                            <?php include('templates/hero-php.php'); ?>
+                            <?php include('templates/hero-python.php'); ?>
+                            <?php include('templates/hero-ruby.php'); ?>
 
 
                         </div>
