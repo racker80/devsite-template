@@ -4,7 +4,7 @@
                 <tbody>
                     <tr>
                         <td class="logo"><img src="/static/img/logos/python.gif" alt=""></td>
-                        <td class="text12">Python is a remarkably powerful dynamic programming language that is used in a wide variety of application domains.</td>
+                        <td class="text12">Python is a remarkably powerful open source dynamic programming language.</td>
                     </tr>
                 </tbody>
             </table>
