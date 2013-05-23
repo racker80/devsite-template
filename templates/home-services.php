@@ -117,12 +117,14 @@
 
                             <div class="product">
                                 <div class="logo">
+                                  <a href="http://www.rackspace.com/cloud/backup/">
                                      <img src="/static/img/products/cloud-backup.png">
+                                  </a>
                                 </div>
                                 <div class="description">
-                                     <h5><a href="#">Backup &raquo;</a></h5>
+                                     <h5><a href="http://www.rackspace.com/cloud/backup/">Cloud Backup &raquo;</a></h5>
                                      <p class="text14">
-                                          Cloud Servers provides compute for your sites and apps.
+                                          Cloud Backup is a file-based backup solution that allows customization of files, folders, schedule, retention and notification. Restore your backed up data to any Cloud Server running Cloud Backup.
                                      </p>
                                 </div>
                             </div><!-- product -->
