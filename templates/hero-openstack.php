@@ -4,7 +4,7 @@
                 <table class="language-intro-table table">
                     <tbody>
                         <tr>
-                            <td class="logo"><img src="/static/img/logos/open-stack.png" alt=""></td>
+                            <td class="logo"><a href="http://www.openstack.org"><img src="/static/img/logos/openstack.gif" alt=""></a></td>
                             <td class="text12">OpenStack allows any company or organization to build a cloud... anywhere.  It's open source, Free, and supported by Rackspace.
                             </td>
                         </tr>
