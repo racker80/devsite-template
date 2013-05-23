@@ -5,14 +5,15 @@
                     <tr>
                         <td class="logo"><img src="/static/img/logos/python.gif" alt=""></td>
                         <td class="text12">Python is a remarkably powerful open source dynamic programming language.</td>
+                        <td>
+                            <a class="btn btn-large btn-success pull-right"
+                                href="https://github.com/rackspace/pyrax">Get the Python SDK now!
+                                <i class="icon-chevron-right"></i>
+                            </a>
+                        </td>
                     </tr>
                 </tbody>
             </table>
-            <div class="row-fluid">
-                <div class="span8">
-                    <a class="btn btn-large btn-success pull-right" href="https://github.com/rackspace/pyrax">Get the Python SDK now! <i class="icon-chevron-right"></i></a>
-                </div>
-            </div>
             <div class="row-fluid">
                 <div class="span4">
                     <dl>
