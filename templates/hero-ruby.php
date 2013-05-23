@@ -3,8 +3,14 @@
         <table class="language-intro-table table">
             <tbody>
                 <tr>
-                    <td class="logo"><img src="/static/img/logos/ruby.gif" alt=""></td>
+                    <td class="logo" style="width:130px;"><img src="/static/img/logos/ruby.gif" alt=""></td>
                     <td class="text12">A dynamic, open source programming language with a focus on simplicity and productivity.</td>
+                    <td style="width:400px;">
+                        <a class="btn btn-large btn-success pull-right"
+                            href="https://github.com/fog/fog">Get the Python SDK now!
+                            <i class="icon-chevron-right"></i>
+                        </a>
+                    </td>
                 </tr>
             </tbody>
         </table>

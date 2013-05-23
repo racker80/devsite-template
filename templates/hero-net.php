@@ -4,11 +4,11 @@
             <table class="language-intro-table table">
                 <tbody>
                     <tr>
-                        <td class="logo"><img src="/static/img/logos/dotnet.gif" alt=""></td>
+                        <td class="logo" style="width:130px;"><img src="/static/img/logos/dotnet.gif" alt=""></td>
                         <td class="text12">
                          The .NET Framework is a popular development platform for building apps for Windows, Windows Store, Windows Phone, Windows Server, and Windows Azure.
                         </td>
-                        <td>
+                        <td style="width:400px;">
                             <a class="btn btn-large btn-success pull-right"
                                 href="http://openstacknetsdk.org/">Get the .NET SDK now!
                                 <i class="icon-chevron-right"></i>
