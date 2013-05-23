@@ -1,5 +1,5 @@
 <?php
-$files = array('/index', '/blog/index', '/blog/single', '/coming-soon', 'openstack');
+$files = array('/index');
 
 foreach($files as $file) {
 	$ch = curl_init($_SERVER['HTTP_HOST'].$file.'.php');
@@ -9,10 +9,10 @@ foreach($files as $file) {
 	curl_close($ch);
 
 	$content = str_replace('.php', '.html', $content);
-	$content = str_replace('<a href="/', '<a href="/html/', $content);
+	//$content = str_replace('<a href="/', '<a href="/html/', $content);
 
 
-	$my_file = dirname(__FILE__).'/html'.$file.'.html';
+	$my_file = dirname(__FILE__).$file.'.html';
 	file_put_contents($my_file, "");
 	$handle = fopen($my_file, 'w') or die('Cannot open file:  '.$my_file);
 	fwrite($handle, $content);

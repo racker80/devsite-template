@@ -1,6 +1,6 @@
 						<div class="tab-pane active" id="home-repos-openstack">
 							<h2 class="lite">Open<span>Stack</span> Projects</h2>
-							    <ul class="repolist js-repo-list">
+							    <ul class="repolist nograph js-repo-list">
 							        <li class="row-fluid" data-user="openstack" data-repo="python-glanceclient">
 							                <div class="repo-image span1">
 							                    <img data-src="holder.js/60x60" alt="">
