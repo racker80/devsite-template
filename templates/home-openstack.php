@@ -14,10 +14,10 @@
 
                         </div>
                         <div class="span6">
-                            <h4>Do you need Servers?</h4>  
-                            <p>                            You can rent metal from Rackspace's Public Cloud service.</p>
+                            <h4>Do you need Servers?</h4>
+                            <p>Create a Rackspace Public Cloud account, powered by OpenStack®</p>
                             <hr>
-                            <a href="https://cart.rackspace.com/cloud/" class="btn btn-large btn-info">I want to rent an OpenStack cluster!</a>
+                            <a href="https://cart.rackspace.com/cloud/" class="btn btn-large btn-info">Sign up instantly!</a>
 
                         </div>
                     </div>
