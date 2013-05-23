@@ -4,7 +4,11 @@
 
                 <div class="">
                     <h1>Develop Great Software for the Open Cloud</h1>
-                    <p class="lead">The future is built on top of the code you write today. We want to make it easy to innovate in an open cloud and support developers who want to make a difference.</p>
+                    <p class="lead">
+                        The future is built on top of the code you
+                        write today. We want to empower developers to innovate
+                        in the open cloud and support developers who want to
+                        make a difference.</p>
                     <div class="tabbable">
                         <ul id="hero-tabs" class="nav nav-tabs nav-pills">
                             <li class="active"><a href="#hero-openstack" data-toggle="tab">OpenStack</a></li>
