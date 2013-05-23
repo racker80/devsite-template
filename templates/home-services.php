@@ -135,18 +135,6 @@
 
                             <div class="product">
                                 <div class="logo">
-                                     <img src="/static/img/products/cloud-files.png">
-                                </div>
-                                <div class="description">
-                                     <h5><a href="#">Files &raquo;</a></h5>
-                                     <p class="text14">
-                                          Cloud Servers provides compute for your sites and apps.
-                                     </p>
-                                </div>
-                            </div><!-- product -->
-
-                            <div class="product">
-                                <div class="logo">
                                   <a href="http://www.rackspace.com/cloud/block-storage/">
                                     <img src="/static/img/products/cloud-block-storage.png">
                                   </a>
@@ -170,6 +158,20 @@
                                      <h5><a href="http://www.rackspace.com/cloud/databases/">Cloud Databases &raquo;</a></h5>
                                      <p class="text14">
                                           Cloud Databases, powered by OpenStack®, provides fast, scalable, fully managed hosting for your MySQL instances using a REST-based API and open standards.
+                                     </p>
+                                </div>
+                            </div><!-- product -->
+
+                            <div class="product">
+                                <div class="logo">
+                                  <a href="http://www.rackspace.com/cloud/sites/">
+                                     <img src="/static/img/products/cloud-files.png">
+                                  </a>
+                                </div>
+                                <div class="description">
+                                     <h5><a href="http://www.rackspace.com/cloud/sites/">Cloud Sites &raquo;</a></h5>
+                                     <p class="text14">
+                                          Cloud sites provides reliable, scalable, simple and versatile platform for hosting your websites and blogs.
                                      </p>
                                 </div>
                             </div><!-- product -->
