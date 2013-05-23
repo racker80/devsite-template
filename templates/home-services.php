@@ -27,7 +27,7 @@
                               <div class="description">
                                 <h5><a href="http://www.rackspace.com/cloud/servers/">Cloud Servers &raquo;</a></h5>
                                 <p class="text14">
-                                  Cloud Servers are virtual machines running Linux or Windows Server in the Rackspace Cloud. You can scale resources like CPU, memory, and storage up or down, depending on your needs. Best of all, you can pay as you go.
+                                  Cloud Servers powered by OpenStack® are virtual machines running Linux or Windows Server in the Rackspace Cloud. You can scale resources like CPU, memory, and storage up or down, depending on your needs. Best of all, you can pay as you go.
                                 </p>
                               </div>
 
@@ -40,9 +40,9 @@
                                   </a>
                                 </div>
                                 <div class="description">
-                                     <h5><a href="http://www.rackspace.com/cloud/load-balancing/">Load Balancers &raquo;</a></h5>
+                                     <h5><a href="http://www.rackspace.com/cloud/load-balancing/">Cloud Load Balancers &raquo;</a></h5>
                                      <p class="text14">
-                                          Mission-critical web-based applications and workloads require high availability. Load balancing distributes workloads across two or more servers, network links, and other resources to maximize throughput, minimize response time and avoid overload. Rackspace cloud load balancers allow you to quickly load balance multiple Cloud Servers™ for optimal resource utilization.
+                                          Mission-critical web-based applications and workloads require high availability. Load balancing distributes workloads across two or more servers, network links, and other resources to maximize throughput, minimize response time and avoid overload.
                                      </p>
                                 </div>
 
@@ -53,7 +53,7 @@
                                      <img src="/static/img/products/cloud-dns.png">
                                 </div>
                                 <div class="description">
-                                     <h5><a href="http://www.rackspace.com/cloud/dns/">DNS &raquo;</a></h5>
+                                     <h5><a href="http://www.rackspace.com/cloud/dns/">Cloud DNS &raquo;</a></h5>
                                      <p class="text14">
                                           Cloud DNS automates and simplifies Domain Name System management. Using the Rackspace Cloud Control Panel and REST-based API, you can list, add, modify, and remove domains, subdomains, and records, as well as import and export domains and records.
                                      </p>
@@ -68,7 +68,7 @@
                                   </a>
                                 </div>
                                 <div class="description">
-                                     <h5><a href="http://www.rackspace.com/cloud/monitoring/">Monitoring &raquo;</a></h5>
+                                     <h5><a href="http://www.rackspace.com/cloud/monitoring/">Cloud Monitoring &raquo;</a></h5>
                                      <p class="text14">
                                           Rackspace Cloud Monitoring is an API-driven cloud service built for infrastructure monitoring. It offers a simple yet powerful feature set, allowing extreme flexibility in configuration and execution.
                                      </p>
@@ -78,12 +78,14 @@
 
                             <div class="product">
                                 <div class="logo">
+                                  <a href="http://www.rackspace.com/cloud/files/">
                                      <img src="/static/img/products/cloud-files.png">
+                                  </a>
                                 </div>
                                 <div class="description">
-                                     <h5><a href="#">Files &raquo;</a></h5>
+                                     <h5><a href="http://www.rackspace.com/cloud/files/">Cloud Files &raquo;</a></h5>
                                      <p class="text14">
-                                          Cloud Servers provides compute for your sites and apps.
+                                          Cloud Files, powered by OpenStack®, provides an easy to use online storage for files and media which can be delivered globally at blazing speeds over Akamai's content delivery network (CDN).
                                      </p>
                                 </div>
 
@@ -139,12 +141,14 @@
 
                             <div class="product">
                                 <div class="logo">
-                                     <img src="/static/img/products/cloud-block-storage.png">
+                                  <a href="http://www.rackspace.com/cloud/block-storage/">
+                                    <img src="/static/img/products/cloud-block-storage.png">
+                                  </a>
                                 </div>
                                 <div class="description">
-                                     <h5><a href="#">Block Storage &raquo;</a></h5>
+                                     <h5><a href="http://www.rackspace.com/cloud/block-storage/">Cloud Block Storage &raquo;</a></h5>
                                      <p class="text14">
-                                          Cloud Servers provides compute for your sites and apps.
+                                          Cloud Block Storage, powered by OpenStack®, delivers consistent performance for your I/O-intensive applications. Choose the service that works best for you - Standard or SSD volumes.
                                      </p>
                                 </div>
                             </div><!-- product -->
