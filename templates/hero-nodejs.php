@@ -63,7 +63,8 @@
                     <dl>
                         <dt>Cookbooks &amp; Samples</dt>
                         <dd>
-                            <a class="link" href="#" target="_top">Getting Started with pkgcloud and the Rackspace Cloud</a>
+                            <a class="link" href="https://github.com/rackspace/pkgcloud/blob/v0.8/docs/providers/rackspace/
+getting-started-compute.md" target="_top">Getting Started with pkgcloud and the Rackspace Cloud</a>
                         </dd>
                     </dl>
 
