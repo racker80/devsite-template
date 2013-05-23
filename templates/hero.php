@@ -13,7 +13,7 @@
                         <ul id="hero-tabs" class="nav nav-tabs nav-pills">
                             <li class="active"><a href="#hero-openstack" data-toggle="tab">OpenStack</a></li>
                             <li><a href="#hero-java" data-toggle="tab">Java</a></li>
-                            <li><a href="#hero-net" data-toggle="tab">.Net</a></li>
+                            <li><a href="#hero-net" data-toggle="tab">.NET</a></li>
                             <li><a href="#hero-nodejs" data-toggle="tab">Node.js</a></li>
                             <li><a href="#hero-php" data-toggle="tab">PHP</a></li>
                             <li><a href="#hero-python" data-toggle="tab">Python</a></li>
