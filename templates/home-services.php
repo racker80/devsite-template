@@ -50,7 +50,9 @@
 
                             <div class="product">
                                 <div class="logo">
+                                  <a href="http://www.rackspace.com/cloud/dns/">
                                      <img src="/static/img/products/cloud-dns.png">
+                                  </a>
                                 </div>
                                 <div class="description">
                                      <h5><a href="http://www.rackspace.com/cloud/dns/">Cloud DNS &raquo;</a></h5>
