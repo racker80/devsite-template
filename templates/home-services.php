@@ -14,7 +14,7 @@
             <div id="services-content" class="tab-content">
                  <div class="tab-pane active" id="services-rackspace">
                       <h2 class="lite">Rackspace Cloud Services</h2>
-                      <p class="">Lorem ipsum dolor sit quod unde quas et accusantium. Totam, veritatis.</p>
+                      <p class="">The Rackspace Cloud gives you the right tool for every job. Every aspect of your application can get the performance, scalability, and security it requires. Need to combine the benefits of the cloud with the single-tenant security of a dedicated server? Our <a href="http://www.rackspace.com/cloud/hybrid/">hybrid hosting</a> gives you the best of both.</p>
 
                      <div class="row-fluid">
                           <div class="span6">
