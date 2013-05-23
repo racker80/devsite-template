@@ -3,14 +3,14 @@
                 <div class="span8">
                     <header class="section-header">
                         <h1 class="section-title lite">Don't get locked in.</h1>
-                        <h3>Open<span class="red">Stack</span> allows you to choose your cloud provider or build your own cloud.</h3>
+                        <h3>Open<span class="red">Stack</span>® allows you to choose your cloud provider or build your own cloud.</h3>
                     </header>
                     <div class="row-fluid">
                         <div class="span6">
                             <h4>Do you have Servers?</h4>
-                            <p>  We'll help walk you through installing OpenStack on your own metal to build your own cloud</p>
+                            <p>  We'll help walk you through installing OpenStack® on your own servers to build your private cloud</p>
                             <hr>
-                            <a href="http://stackgeek.com/guides/gettingstarted.html" class="btn btn-large btn-success">I want to install an OpenStack cluster!</a>
+                            <a href="http://www.rackspace.com/cloud/private/openstack_software/" class="btn btn-large btn-success">I want to install an OpenStack cluster!</a>
 
                         </div>
                         <div class="span6">
