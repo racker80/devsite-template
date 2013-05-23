@@ -3,7 +3,7 @@
             <table class="language-intro-table table">
                 <tbody>
                     <tr>
-                        <td class="logo" style="width:130px;"><img src="/static/img/logos/php.gif" alt=""></td>
+                        <td class="logo" style="width:130px;"><a href="http://php.net/"><img src="/static/img/logos/php.gif" alt=""></a></td>
                         <td class="text12">PHP is a widely-used general-purpose scripting language that is especially suited for Web development and can be embedded into HTML.</td>
                         <td style="width:400px;">
                             <a class="btn btn-large btn-success pull-right"

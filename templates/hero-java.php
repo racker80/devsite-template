@@ -3,7 +3,7 @@
             <table class="language-intro-table table">
                 <tbody>
                     <tr>
-                        <td class="logo" style="width:130px;"><img src="/static/img/logos/java.gif" alt=""></td>
+                        <td class="logo" style="width:130px;"><a href="http://www.java.com/en/"><img src="/static/img/logos/java.gif" alt=""></a></td>
                         <td class="text12">Java is a general-purpose, concurrent, statically-typed, object-oriented computer programming language that is specifically designed to have as few implementation dependencies as possible.</td>
                         <td style="width:400px;">
                             <a class="btn btn-large btn-success pull-right"

@@ -3,7 +3,7 @@
             <table class="language-intro-table table">
                 <tbody>
                     <tr>
-                        <td class="logo" style="width:130px;"><img src="/static/img/logos/python.gif" alt=""></td>
+                        <td class="logo" style="width:130px;"><a href="http://www.python.org"><img src="/static/img/logos/python.gif" alt=""></a></td>
                         <td class="text12">Python is a remarkably powerful open source dynamic programming language.</td>
                         <td style="width:400px;">
                             <a class="btn btn-large btn-success pull-right"

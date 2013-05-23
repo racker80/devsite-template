@@ -3,7 +3,7 @@
         <table class="language-intro-table table">
             <tbody>
                 <tr>
-                    <td class="logo" style="width:130px;"><img src="/static/img/logos/ruby.gif" alt=""></td>
+                    <td class="logo" style="width:130px;"><a href="http://www.ruby-lang.org/en/"><img src="/static/img/logos/ruby.gif" alt=""></a></td>
                     <td class="text12">A dynamic, open source programming language with a focus on simplicity and productivity.</td>
                     <td style="width:400px;">
                         <a class="btn btn-large btn-success pull-right"

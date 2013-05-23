@@ -4,7 +4,7 @@
             <table class="language-intro-table table">
                 <tbody>
                     <tr>
-                        <td class="logo" style="width:130px;"><img src="/static/img/logos/dotnet.gif" alt=""></td>
+                        <td class="logo" style="width:130px;"><a href="http://www.microsoft.com/net"><img src="/static/img/logos/dotnet.gif" alt=""></a></td>
                         <td class="text12">
                          The .NET Framework is a popular development platform for building apps for Windows, Windows Store, Windows Phone, Windows Server, and Windows Azure.
                         </td>
