@@ -7,27 +7,23 @@
                 <div class="span9">
                     <article class="blog-article">
                             <header>
-                                <h1 class="entry-title"><a href="/blog/single.php">DevOps: Improved Productivity, Higher Value</a></h1>
+                                <h1 class="entry-title"><a href="/blog/using-logstash-to-push-metrics-to-graphite.html">Using Logstash to Push Metrics to Graphite</a></h1>
                                 <p class="author">
-                                    <span class="byline author vcard">by <span class="fn">James Turnbull</span></span>
+                                    <span class="byline author vcard">by <span class="fn">by Erik Redding </span></span>
                                     <br>
                                 </p>
                                 <p class="meta">
-                                    <time datetime="2013-05-10T08:00:00-05:00" pubdate="" data-updated="true">May 10<span>th</span>, 2013</time>
+                                    <time datetime="2013-05-10T08:00:00-05:00" pubdate="" data-updated="true">MAY 23RD, 2013</time>
                                 </p>
                             </header>
 
                             <div class="entry-content">
-                                <p><img class="right" src="http://devops.rackspace.com/images/2013-05-10-devopsreport/devopsreport.png" width="200">
-                                    Those of us who have been aligned with DevOps for some time already know that the greater agility and closer collaboration it enables deliver real business value for our organizations.
-                                </p>
-
-                                <p>But until recently, our knowledge was based largely on our personal experience, and that of our friends and colleagues. So <a href="http://puppetlabs.com/">Puppet Labs</a> and <a href="http://itrevolution.com/">IT Revolution Press</a> partnered late last year to survey sysadmins, developers and other technology professionals in search of hard data that would tell us whether DevOps really does deliver solid results.
-                                </p>
+<p><img class="right" src="http://devops.rackspace.com/images/2013-05-23-logstash/data-visualization-logo.png" width="200">
+One of the cool things we do on the <a href="http://www.rackspace.com/cloud/databases/">Cloud Databases</a> operations side of the house is come up with statistics that can help us gain insight to hardware performance to identify issues with systems. We use some really cool tools, but one of the most versatile tools we work with is <a href="http://www.logstash.net/">logstash</a>. The goal of this article is to get you started pushing metrics with logstash that you may already collect to <a href="http://graphite.wikidot.com/">Graphite</a>. Along the way, I’ll be showing you how to get started with logstash, test your configuration locally and then start pushing your first metrics to Graphite with some different examples along the way.</p>
                             </div>
 
                             <footer class="blog-footer">
-                                <a rel="full-article" href="/blog/single.php">Continue Reading →</a>
+                                <a rel="full-article" href="/blog/using-logstash-to-push-metrics-to-graphite.html">Continue Reading →</a>
                             </footer>
 
                         </article>
