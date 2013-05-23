@@ -45,10 +45,10 @@
                                 <a href="http://openstack.org/software/start/">Getting Started</a> - Get up and running quickly with DevStack or TryStack.
                             </dd>
                             <dd>
-                                <a href="#">Installing</a> - Installation and deployment guides for production-sized systems. Now includes the Grizzly release.
+                                <a href="http://docs.openstack.org/install/">Installing</a> - Installation and deployment guides for production-sized systems. Now includes the Grizzly release.
                             </dd>
                             <dd>
-                                <a href="http://docs.openstack.org/install/">Running</a> - Operational and administration documentation for OpenStack cloud service providers.
+                                <a href="http://docs.openstack.org/run/">Running</a> - Operational and administration documentation for OpenStack cloud service providers.
                             </dd>
                             <dd>
                                 <a href="http://docs.openstack.org/api/">API</a> - Documentation on the RESTful APIs provided by OpenStack services.
