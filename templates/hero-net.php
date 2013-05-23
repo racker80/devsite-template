@@ -24,7 +24,7 @@
                     <dl>
                         <dt>Rackspace Supported SDKs</dt>
                         <dd>
-                            <a href="http://openstacknetsdk.org/">Openstack.net</a> - The official Rackspace SDK for .Net.
+                            <a href="http://openstacknetsdk.org/">Openstack.net</a> - The official Rackspace SDK for .NET.
                         </dd>
                         <dd>
                             <a href="https://github.com/rackspace/openstack.net">Openstack.net on GitHub</a>

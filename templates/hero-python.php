@@ -62,7 +62,7 @@
                 </div>
                 <div class="span4">
                     <dl>
-                        <dt>Python Cookbooks</dt>
+                        <dt>Cookbooks &amp; Samples</dt>
                         <dd>
                             <a class="link" href="https://github.com/rackspace/pyrax/blob/master/docs/pyrax_doc.md" target="_top">Getting Started with pyrax and the Rackspace Cloud</a>
                         </dd>

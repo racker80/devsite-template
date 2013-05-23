@@ -18,18 +18,18 @@
                         <ul class="dropdown-menu">
                             <li><a href="#hero-openstack" data-toggle="tab">OpenStack</a></li>
                             <li><a href="#hero-java" data-toggle="tab">Java</a></li>
-                            <li><a href="#hero-net" data-toggle="tab">.Net</a></li>
+                            <li><a href="#hero-net" data-toggle="tab">.NET</a></li>
                             <li><a href="#hero-nodejs" data-toggle="tab">Node.js</a></li>
                             <li><a href="#hero-php" data-toggle="tab">PHP</a></li>
                             <li><a href="#hero-python" data-toggle="tab">Python</a></li>
                             <li><a href="#hero-ruby" data-toggle="tab">Ruby</a></li>
                         </ul>
-                        <li class="dropdown"><a href="#" class="dropdown-toggle" data-toggle="dropdown">Open Stack <b class="caret"></b></a>
+                        <li class="dropdown"><a href="#" class="dropdown-toggle" data-toggle="dropdown">OpenStack <b class="caret"></b></a>
                             <ul class="dropdown-menu">
                                 <li><a href="http://docs.openstack.org/api/" target="_blank">API</a></li>
-                                <li><a href="http://www.openstack.org/software/" target="_blank">About Open Stack</a></li>
+                                <li><a href="http://www.openstack.org/software/" target="_blank">About OpenStack</a></li>
                                 <li><a href="http://www.openstack.org/community/" target="_blank">Community</a></li>
-                                <li><a href="http://www.rackspace.com/cloud/openstack/" target="_blank">Rackspace & Open Stack</a></li>
+                                <li><a href="http://www.rackspace.com/cloud/openstack/" target="_blank">Rackspace & OpenStack</a></li>
 
                             </ul>
                         </li>
