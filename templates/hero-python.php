@@ -62,8 +62,8 @@
                         </dd>
                     </dl>
                 </div>
-                <div class="span12">
-                    <a class="btn btn-large btn-success pull-right" href="https://github.com/rackspace/pyrax">Get the Python SDK now! <i class="icon-chevron-right"></i></a>
+                <div class="span8">
+                    <a class="btn btn-large btn-success" href="https://github.com/rackspace/pyrax">Get the Python SDK now! <i class="icon-chevron-right"></i></a>
                 </div>
             </div><!-- row -->
 
