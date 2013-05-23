@@ -7,7 +7,7 @@
                     <p class="lead">
                         The future is built on top of the code you
                         write today. We want to empower developers to innovate
-                        in the open cloud and support developers who want to
+                        on the open cloud and support developers who want to
                         make a difference.</p>
                     <div class="tabbable">
                         <ul id="hero-tabs" class="nav nav-tabs nav-pills">
