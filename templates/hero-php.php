@@ -5,6 +5,12 @@
                     <tr>
                         <td class="logo"><img src="/static/img/logos/php.gif" alt=""></td>
                         <td class="text12">PHP is a widely-used general-purpose scripting language that is especially suited for Web development and can be embedded into HTML.</td>
+                        <td>
+                            <a class="btn btn-large btn-success pull-right"
+                                href="https://github.com/rackspace/php-opencloud">Get the PHP SDK now!
+                                <i class="icon-chevron-right"></i>
+                            </a>
+                        </td>
                     </tr>
                 </tbody>
             </table>

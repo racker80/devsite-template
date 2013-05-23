@@ -5,6 +5,12 @@
                     <tr>
                         <td class="logo"><img src="/static/img/logos/nodejs.gif" alt=""></td>
                         <td class="text12">Node.js is a platform built on Chrome's JavaScript runtime for easily building fast, scalable network applications.</td>
+                        <td>
+                            <a class="btn btn-large btn-success pull-right"
+                                href="https://github.com/nodejitsu/pkgcloud">Get the Node.js SDK now!
+                                <i class="icon-chevron-right"></i>
+                            </a>
+                        </td>
                     </tr>
                 </tbody>
             </table>

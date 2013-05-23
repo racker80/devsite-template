@@ -8,6 +8,12 @@
                         <td class="text12">
                          The .NET Framework is a popular development platform for building apps for Windows, Windows Store, Windows Phone, Windows Server, and Windows Azure.
                         </td>
+                        <td>
+                            <a class="btn btn-large btn-success pull-right"
+                                href="http://openstacknetsdk.org/">Get the .NET SDK now!
+                                <i class="icon-chevron-right"></i>
+                            </a>
+                        </td>
                     </tr>
                 </tbody>
             </table>
