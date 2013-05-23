@@ -3,7 +3,7 @@
                 <div class="row-fluid">
 
                     <div class="span2">
-                        
+
                         <?php /*
                         <div class="tabbable tabs-left hidden">
                             <ul class="nav nav-tabs">
@@ -34,8 +34,11 @@
                                     <a href="https://github.com/rackspace" target="_blank">Rackspace SDKs</a>
                                 </dd>
                                 <dd>
-                                    <a href="https://github.com/rackerlabs" target="_blank">Racker Labs</a>
-                                </dd                                
+                                    <a href="https://github.com/racker" target="_blank">Racker</a>
+                                </dd>
+                                <dd>
+                                    <a href="https://github.com/rackerlabs" target="_blank">RackerLabs</a>
+                                </dd>
                             </dl>
                         </div>
 
