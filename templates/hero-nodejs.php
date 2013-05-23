@@ -47,7 +47,7 @@
                             <a class="link" href="https://github.com/nodejitsu/pkgcloud/blob/master/docs/providers/rackspace.md" target="_top">SDK Quick Reference</a> – quick reference guides for the services available.
                         </dd>
                         <dd>
-                            <a class="link" href="https://github.com/nodejitsu/pkgcloud#supported-apis" target="_top">API Reference Manual</a>  – detailed API documentation.
+                            <a class="link" href="https://github.com/nodejitsu/pkgcloud/blob/master/docs/providers/rackspace.md" target="_top">API Reference Manual</a>  – detailed API documentation.
                         </dd>
                         <dd>
                             <a class="link" href="https://github.com/nodejitsu/pkgcloud/blob/master/CHANGELOG.md" target="_top">Release Notes</a> - track changes between releases.
