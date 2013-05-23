@@ -60,6 +60,10 @@
                         <dd>
                             <a class="link" href="http://www.jclouds.org/documentation/releasenotes/" target="_top">SDK Release Notes</a> - track changes between releases.
                         </dd>
+                        <dd>
+                            <a class="link" href="https://github.com/rackerlabs/jclouds-examples/tree/master/rackspace" target="_top">Examples</a> – code samples demonstrating how to
+                            accomplish common tasks.
+                        </dd>
                     </dl>
 
                 </div>
