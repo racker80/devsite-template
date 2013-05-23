@@ -156,12 +156,14 @@
 
                             <div class="product">
                                 <div class="logo">
+                                  <a href="http://www.rackspace.com/cloud/databases/">
                                      <img src="/static/img/products/cloud-databases.png">
+                                  </a>
                                 </div>
                                 <div class="description">
-                                     <h5><a href="#">Databases &raquo;</a></h5>
+                                     <h5><a href="http://www.rackspace.com/cloud/databases/">Cloud Databases &raquo;</a></h5>
                                      <p class="text14">
-                                          Cloud Servers provides compute for your sites and apps.
+                                          Cloud Databases, powered by OpenStack®, provides fast, scalable, fully managed hosting for your MySQL instances using a REST-based API and open standards.
                                      </p>
                                 </div>
                             </div><!-- product -->
