@@ -165,7 +165,7 @@
                             <div class="product">
                                 <div class="logo">
                                   <a href="http://www.rackspace.com/cloud/sites/">
-                                     <img src="/static/img/products/cloud-files.png">
+                                     <img src="/static/img/products/cloudsites.png">
                                   </a>
                                 </div>
                                 <div class="description">

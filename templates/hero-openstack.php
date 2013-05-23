@@ -17,8 +17,7 @@
                         <dl>
                             <dt>OpenStack Cloud Operating System</dt>
                             <dd>
-                                <a href="http://www.openstack.org/">OpenStack.org</a>
-                                <p>The offical specs on the openstack website</p>
+                                <a href="http://www.openstack.org/">OpenStack.org</a> - The official OpenStack website.
                             </dd>
 
                         </dl>
