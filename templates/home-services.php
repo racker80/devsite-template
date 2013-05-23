@@ -42,7 +42,7 @@
                                 <div class="description">
                                      <h5><a href="http://www.rackspace.com/cloud/load-balancing/">Load Balancers &raquo;</a></h5>
                                      <p class="text14">
-                                          Cloud load balancers allow you to quickly load balance multiple Cloud Servers™ for optimal resource utilization.
+                                          Mission-critical web-based applications and workloads require high availability. Load balancing distributes workloads across two or more servers, network links, and other resources to maximize throughput, minimize response time and avoid overload. Rackspace cloud load balancers allow you to quickly load balance multiple Cloud Servers™ for optimal resource utilization.
                                      </p>
                                 </div>
 
@@ -55,7 +55,7 @@
                                 <div class="description">
                                      <h5><a href="http://www.rackspace.com/cloud/dns/">DNS &raquo;</a></h5>
                                      <p class="text14">
-                                          Cloud DNS automates and simplifies Domain Name System management.
+                                          Cloud DNS automates and simplifies Domain Name System management. Using the Rackspace Cloud Control Panel and REST-based API, you can list, add, modify, and remove domains, subdomains, and records, as well as import and export domains and records.
                                      </p>
                                 </div>
 
@@ -63,12 +63,14 @@
 
                             <div class="product">
                                 <div class="logo">
+                                  <a href="http://www.rackspace.com/cloud/monitoring/">
                                      <img src="/static/img/products/cloud-monitoring.png">
+                                  </a>
                                 </div>
                                 <div class="description">
-                                     <h5><a href="#">Monitoring &raquo;</a></h5>
+                                     <h5><a href="http://www.rackspace.com/cloud/monitoring/">Monitoring &raquo;</a></h5>
                                      <p class="text14">
-                                          Cloud Servers provides compute for your sites and apps.
+                                          Rackspace Cloud Monitoring is an API-driven cloud service built for infrastructure monitoring. It offers a simple yet powerful feature set, allowing extreme flexibility in configuration and execution.
                                      </p>
                                 </div>
 
