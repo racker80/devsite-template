@@ -72,7 +72,7 @@
                                 <div class="description">
                                      <h5><a href="http://www.rackspace.com/cloud/monitoring/">Cloud Monitoring &raquo;</a></h5>
                                      <p class="text14">
-                                          Rackspace Cloud Monitoring is an API-driven cloud service built for infrastructure monitoring. It offers a simple yet powerful feature set, allowing extreme flexibility in configuration and execution.
+                                       Cloud Monitoring is an API-driven cloud service built for infrastructure monitoring. It offers a simple yet powerful feature set, allowing extreme flexibility in configuration and execution.
                                      </p>
                                 </div>
 
@@ -105,12 +105,14 @@
 
                             <div class="product">
                                 <div class="logo">
-                                     <img src="/static/img/products/cloud-networks.png">
+                                  <a href="http://www.rackspace.com/knowledge_center/article/getting-started-with-cloud-networks">
+                                    <img src="/static/img/products/cloud-networks.png">
+                                  </a>
                                 </div>
                                 <div class="description">
-                                     <h5><a href="#">Networks &raquo;</a></h5>
+                                     <h5><a href="http://www.rackspace.com/knowledge_center/article/getting-started-with-cloud-networks">Cloud Networks &raquo;</a></h5>
                                      <p class="text14">
-                                          Cloud Servers provides compute for your sites and apps.
+                                          Cloud Networks allows you to create isolated, multi-tiered networks on our Cloud Servers powered by OpenStack®, all with the click of a button. It greatly simplifies networking in the cloud.
                                      </p>
                                 </div>
 
