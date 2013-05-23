@@ -48,9 +48,6 @@
                     <dl>
                         <dt>Docs and Resources</dt>
                         <dd>
-                            <a class="link" href="http://docs.rackspace.com/sdks/guide/content/java.html" target="_top">SDK Documentation</a> by Rackspace.
-                        </dd>
-                        <dd>
                             <a class="link" href="http://www.jclouds.org/documentation/quickstart/rackspace/" target="_top">SDK Quick Reference</a> – quick
                             reference information for the services available.
                         </dd>
