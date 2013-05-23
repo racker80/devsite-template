@@ -3,9 +3,9 @@
             <table class="language-intro-table table">
                 <tbody>
                     <tr>
-                        <td class="logo"><img src="/static/img/logos/java.gif" alt=""></td>
+                        <td class="logo" style="width:120px;"><img src="/static/img/logos/java.gif" alt=""></td>
                         <td class="text12">Java is a general-purpose, concurrent, statically-typed, object-oriented computer programming language that is specifically designed to have as few implementation dependencies as possible.</td>
-                        <td>
+                        <td style="width:120px;">
                             <a class="btn btn-large btn-success pull-right"
                                 href="http://www.jclouds.org/documentation/quickstart/rackspace/">Get the Java SDK now!
                                 <i class="icon-chevron-right"></i>
