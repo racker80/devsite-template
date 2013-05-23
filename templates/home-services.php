@@ -187,7 +187,7 @@
 
                       </div>
                       <h2 class="lite">Simple Mail integration for the cloud</h2>
-                      <p class="lead">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Deserunt, commodi, unde, rem rerum eum nobis nulla modi officia odit ipsum dolor praesentium minus sit recusandae veritatis sed cumque laboriosam itaque!</p>
+                      <p class="lead">Mailgun is a set of powerful APIs that allow you to send, receive and track email effortlessly.</p>
                       <p class="meta"><a href="#">Visit Site</a> | <a href="#">Integration Guide</a> | <a href="#">Code Samples</a></p>
 
                     </div>
