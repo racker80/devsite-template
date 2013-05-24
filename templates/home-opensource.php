@@ -1,4 +1,4 @@
-<div class="container section-container">
+<div class="row-fluid">
   <header class="section-header">
       <h1 class="section-title lite">Community Projects and Open Source</h1>
   </header>
