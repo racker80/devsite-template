@@ -6,9 +6,10 @@
         <?php include('templates/home-services.php'); ?>
 
         <?php include('templates/home-repos.php'); ?>
+        <?php include('templates/home-opensource.php'); ?>
         <?php include('templates/home-blog.php'); ?>
 
-          <?php include('templates/home-openstack.php'); ?>
+        <?php include('templates/home-openstack.php'); ?>
 
     </div><!-- page -->
 
